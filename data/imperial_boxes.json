@@ -1,0 +1,488 @@
+[
+  {
+    "Recipe Name": "Apprentice's Cooking Box",
+    "Type": "Cooking",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Beer x20, Grain Soup x10",
+    "Market Price": "100,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "200-300 XP"
+  },
+  {
+    "Recipe Name": "Skilled Cook's Cooking Box",
+    "Type": "Cooking",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Fruit Wine x20, Pickled Vegetables x10",
+    "Market Price": "150,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "300-400 XP"
+  },
+  {
+    "Recipe Name": "Professional's Cooking Box",
+    "Type": "Cooking",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Sute Tea x20, Fish Fillet Chips x10",
+    "Market Price": "200,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "400-600 XP"
+  },
+  {
+    "Recipe Name": "Artisan's Cooking Box",
+    "Type": "Cooking",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Teff Sandwich x20, Ham Sandwich x10",
+    "Market Price": "300,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "500-700 XP"
+  },
+  {
+    "Recipe Name": "Master's Cooking Box",
+    "Type": "Cooking",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Valencia Meal x20, King of Jungle Hamburg x10",
+    "Market Price": "400,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "800-1000 XP"
+  },
+  {
+    "Recipe Name": "Guru's Cooking Box",
+    "Type": "Cooking",
+    "Skill Level": "Guru Lv.1",
+    "Ingredients": "Special Drieghanese Meal x20, Special Arehaza Meal x10",
+    "Market Price": "500,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "1000-1200 XP"
+  },
+  {
+    "Recipe Name": "Apprentice's Fried Fish Cooking Box",
+    "Type": "Cooking",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Fried Fish x20",
+    "Market Price": "80,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "200-300 XP"
+  },
+  {
+    "Recipe Name": "Apprentice's Boiled Egg Cooking Box",
+    "Type": "Cooking",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Boiled Bird Eggs x20",
+    "Market Price": "80,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "200-300 XP"
+  },
+  {
+    "Recipe Name": "Skilled Cook's Meat Stew Cooking Box",
+    "Type": "Cooking",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Meat Stew x20",
+    "Market Price": "120,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "300-400 XP"
+  },
+  {
+    "Recipe Name": "Skilled Cook's Soft Bread Cooking Box",
+    "Type": "Cooking",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Soft Bread x20",
+    "Market Price": "120,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "300-400 XP"
+  },
+  {
+    "Recipe Name": "Professional's Steamed Fish Cooking Box",
+    "Type": "Cooking",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Steamed Fish x20",
+    "Market Price": "160,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "400-600 XP"
+  },
+  {
+    "Recipe Name": "Professional's Meat Pie Cooking Box",
+    "Type": "Cooking",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Meat Pie x20",
+    "Market Price": "160,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "400-600 XP"
+  },
+  {
+    "Recipe Name": "Artisan's Honeycomb Cookie Cooking Box",
+    "Type": "Cooking",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Honeycomb Cookie x20",
+    "Market Price": "240,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "500-700 XP"
+  },
+  {
+    "Recipe Name": "Artisan's Tea With Fine Scent Cooking Box",
+    "Type": "Cooking",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Tea With Fine Scent x20",
+    "Market Price": "240,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "500-700 XP"
+  },
+  {
+    "Recipe Name": "Master's Dark Pudding Cooking Box",
+    "Type": "Cooking",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Dark Pudding x20",
+    "Market Price": "320,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "800-1000 XP"
+  },
+  {
+    "Recipe Name": "Master's Ham Sandwich Cooking Box",
+    "Type": "Cooking",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Ham Sandwich x20",
+    "Market Price": "320,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "800-1000 XP"
+  },
+  {
+    "Recipe Name": "Guru's Kamasylvia Meal Cooking Box",
+    "Type": "Cooking",
+    "Skill Level": "Guru Lv.1",
+    "Ingredients": "Kamasylvia Meal x20",
+    "Market Price": "400,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "1000-1200 XP"
+  },
+  {
+    "Recipe Name": "Guru's Margoria Seafood Meal Cooking Box",
+    "Type": "Cooking",
+    "Skill Level": "Guru Lv.1",
+    "Ingredients": "Margoria Seafood Meal x20",
+    "Market Price": "400,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "1000-1200 XP"
+  },
+  {
+    "Recipe Name": "Apprentice's Medicine Box",
+    "Type": "Alchemy",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Elixir of Life x20, Elixir of Energy x10",
+    "Market Price": "100,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "200-300 XP"
+  },
+  {
+    "Recipe Name": "Skilled Alchemist's Medicine Box",
+    "Type": "Alchemy",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Elixir of Swiftness x20, Elixir of Wings x10",
+    "Market Price": "150,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "300-400 XP"
+  },
+  {
+    "Recipe Name": "Professional's Medicine Box",
+    "Type": "Alchemy",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Elixir of Perforation x20, Elixir of Assassination x10",
+    "Market Price": "200,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "400-600 XP"
+  },
+  {
+    "Recipe Name": "Artisan's Medicine Box",
+    "Type": "Alchemy",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Elixir of Sky x20, Griffon's Elixir x10",
+    "Market Price": "300,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "500-700 XP"
+  },
+  {
+    "Recipe Name": "Master's Medicine Box",
+    "Type": "Alchemy",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Perfume of Courage x20, Khalk's Elixir x10",
+    "Market Price": "400,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "800-1000 XP"
+  },
+  {
+    "Recipe Name": "Guru's Medicine Box",
+    "Type": "Alchemy",
+    "Skill Level": "Guru Lv.1",
+    "Ingredients": "Verdure Draught x20, Frenzy Draught x10",
+    "Market Price": "500,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "1000-1200 XP"
+  },
+  {
+    "Recipe Name": "Apprentice's Elixir of Life Medicine Box",
+    "Type": "Alchemy",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Elixir of Life x20",
+    "Market Price": "80,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "200-300 XP"
+  },
+  {
+    "Recipe Name": "Apprentice's Elixir of Mentality Medicine Box",
+    "Type": "Alchemy",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Elixir of Mentality x20",
+    "Market Price": "80,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "200-300 XP"
+  },
+  {
+    "Recipe Name": "Skilled Alchemist's Elixir of Amity Medicine Box",
+    "Type": "Alchemy",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Elixir of Amity x20",
+    "Market Price": "120,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "300-400 XP"
+  },
+  {
+    "Recipe Name": "Skilled Alchemist's Elixir of Demihuman Hunt Medicine Box",
+    "Type": "Alchemy",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Elixir of Demihuman Hunt x20",
+    "Market Price": "120,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "300-400 XP"
+  },
+  {
+    "Recipe Name": "Professional's Elixir of Frenzy Medicine Box",
+    "Type": "Alchemy",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Elixir of Frenzy x20",
+    "Market Price": "160,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "400-600 XP"
+  },
+  {
+    "Recipe Name": "Professional's Elixir of Death Medicine Box",
+    "Type": "Alchemy",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Elixir of Death x20",
+    "Market Price": "160,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "400-600 XP"
+  },
+  {
+    "Recipe Name": "Artisan's Perfume of Courage Medicine Box",
+    "Type": "Alchemy",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Perfume of Courage x20",
+    "Market Price": "240,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "500-700 XP"
+  },
+  {
+    "Recipe Name": "Artisan's Perfume of Swiftness Medicine Box",
+    "Type": "Alchemy",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Perfume of Swiftness x20",
+    "Market Price": "240,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "500-700 XP"
+  },
+  {
+    "Recipe Name": "Master's Khalk's Elixir Medicine Box",
+    "Type": "Alchemy",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Khalk's Elixir x20",
+    "Market Price": "320,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "800-1000 XP"
+  },
+  {
+    "Recipe Name": "Master's Elixir of Deep Sea Medicine Box",
+    "Type": "Alchemy",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Elixir of Deep Sea x20",
+    "Market Price": "320,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "800-1000 XP"
+  },
+  {
+    "Recipe Name": "Guru's Unbridled Celerity Draught Medicine Box",
+    "Type": "Alchemy",
+    "Skill Level": "Guru Lv.1",
+    "Ingredients": "Unbridled Celerity Draught x20",
+    "Market Price": "400,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "1000-1200 XP"
+  },
+  {
+    "Recipe Name": "Guru's Marvelous Draught of Persistence Medicine Box",
+    "Type": "Alchemy",
+    "Skill Level": "Guru Lv.1",
+    "Ingredients": "Marvelous Draught of Persistence x20",
+    "Market Price": "400,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "1000-1200 XP"
+  },
+  {
+    "Recipe Name": "Apprentice's Timber Box",
+    "Type": "Processing",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Ash Plank x20, Maple Plank x10",
+    "Market Price": "100,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "200-300 XP"
+  },
+  {
+    "Recipe Name": "Skilled Processor's Timber Box",
+    "Type": "Processing",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Pine Plywood x20, Fir Plywood x10",
+    "Market Price": "150,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "300-400 XP"
+  },
+  {
+    "Recipe Name": "Professional's Timber Box",
+    "Type": "Processing",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Sturdy Pine Plywood x20, Sturdy Fir Plywood x10",
+    "Market Price": "200,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "400-600 XP"
+  },
+  {
+    "Recipe Name": "Artisan's Timber Box",
+    "Type": "Processing",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Sturdy Acacia Plywood x20, Sturdy Palm Plywood x10",
+    "Market Price": "300,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "500-700 XP"
+  },
+  {
+    "Recipe Name": "Master's Timber Box",
+    "Type": "Processing",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Sturdy Moss Tree Plywood x20, Sturdy Ancient Tree Plywood x10",
+    "Market Price": "400,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "800-1000 XP"
+  },
+  {
+    "Recipe Name": "Guru's Timber Box",
+    "Type": "Processing",
+    "Skill Level": "Guru Lv.1",
+    "Ingredients": "Standardized Timber Square x20, Sturdy Loopy Tree Plywood x10",
+    "Market Price": "500,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "1000-1200 XP"
+  },
+  {
+    "Recipe Name": "Apprentice's Metal Box",
+    "Type": "Processing",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Copper Ingot x20, Iron Ingot x10",
+    "Market Price": "80,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "200-300 XP"
+  },
+  {
+    "Recipe Name": "Skilled Processor's Metal Box",
+    "Type": "Processing",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Brass Ingot x20, Bronze Ingot x10",
+    "Market Price": "120,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "300-400 XP"
+  },
+  {
+    "Recipe Name": "Professional's Metal Box",
+    "Type": "Processing",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Pure Copper Crystal x20, Pure Iron Crystal x10",
+    "Market Price": "160,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "400-600 XP"
+  },
+  {
+    "Recipe Name": "Artisan's Metal Box",
+    "Type": "Processing",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Pure Vanadium Crystal x20, Pure Titanium Crystal x10",
+    "Market Price": "240,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "500-700 XP"
+  },
+  {
+    "Recipe Name": "Master's Metal Box",
+    "Type": "Processing",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Pure Silver Crystal x20, Pure Gold Crystal x10",
+    "Market Price": "320,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "800-1000 XP"
+  },
+  {
+    "Recipe Name": "Guru's Metal Box",
+    "Type": "Processing",
+    "Skill Level": "Guru Lv.1",
+    "Ingredients": "Pure Mythril Crystal x20, Pure Platinum Crystal x10",
+    "Market Price": "400,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "1000-1200 XP"
+  },
+  {
+    "Recipe Name": "Apprentice's Hide Box",
+    "Type": "Processing",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Soft Hide x20, Tough Hide x10",
+    "Market Price": "80,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "200-300 XP"
+  },
+  {
+    "Recipe Name": "Skilled Processor's Hide Box",
+    "Type": "Processing",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Fine Soft Hide x20, Fine Tough Hide x10",
+    "Market Price": "120,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "300-400 XP"
+  },
+  {
+    "Recipe Name": "Professional's Hide Box",
+    "Type": "Processing",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Supreme Soft Hide x20, Supreme Tough Hide x10",
+    "Market Price": "160,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "400-600 XP"
+  },
+  {
+    "Recipe Name": "Artisan's Hide Box",
+    "Type": "Processing",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Fine Fancy Reptile Skin x20, Fine Light Hide x10",
+    "Market Price": "240,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "500-700 XP"
+  },
+  {
+    "Recipe Name": "Master's Hide Box",
+    "Type": "Processing",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Fine Thick Fur x20, Fine Hard Hide x10",
+    "Market Price": "320,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "800-1000 XP"
+  },
+  {
+    "Recipe Name": "Guru's Hide Box",
+    "Type": "Processing",
+    "Skill Level": "Guru Lv.1",
+    "Ingredients": "Fine Lightweight Feather x20, Fine Fancy Feather x10",
+    "Market Price": "400,000 Silver",
+    "Weight": "10.00 LT",
+    "Experience": "1000-1200 XP"
+  }
+]

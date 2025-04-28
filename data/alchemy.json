@@ -1,0 +1,1322 @@
+[
+  {
+    "Recipe Name": "Whale Tendon Potion",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Blue Whale Tendon x1, HP Potion (Medium) x3, MP Potion (Medium) x3, Purified Water x8",
+    "Market Price": "2,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Underwater Breathing +15 sec for 5 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "5,000,000"
+  },
+  {
+    "Recipe Name": "Elixir of Amity",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Ash Sap x5, Fire Flake Flower x5, Clear Liquid Reagent x1, Blood Group 2 x1",
+    "Market Price": "30,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Amity Gain +20% for 5 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Resurrection Elixir",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Sunrise Herb x5, Trace of Origin x3, Purified Water x3",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Revives target with 25% HP and MP",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Elixir of Human Hunt",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Arrow Mushroom x6, Clown's Blood x1, Trace of Violence x2, Ash Sap x3",
+    "Market Price": "30,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Damage to Humans +8 for 5 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Elixir of Frenzy",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Clown's Blood x1, Spirit's Leaf x5, Powder of Darkness x3, Blood Group 4 x2",
+    "Market Price": "200,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +15, All Damage Reduction -15 for 5 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Golden Hand Elixir",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Ash Sap x6, Trace of Ascension x3, Blood Group 5 x2",
+    "Market Price": "45,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Gathering Item Drop Rate +10% for 5 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Elixir of Draining",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Trace of Savagery x5, Spirit's Leaf x3, Blood Group 5 x2",
+    "Market Price": "33,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "HP Recovery +10 per hit for 5 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Elixir of Demihuman Hunt",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Cloud Mushroom x6, Clown's Blood x1, Trace of Violence x2, Ash Sap x3",
+    "Market Price": "45,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Damage to Demihumans +8 for 5 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Elixir of Perforation",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Ash Sap x5, Trace of Savagery x3, Blood Group 4 x2",
+    "Market Price": "60,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Ignore Resistance +3% for 5 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Elixir of Energy",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Pure Powder Reagent x1, Blood Group 2 x4, Purified Water x3, MP Potion (Small) x2",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Energy Recovery +10 for 5 min",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,000,000"
+  },
+  {
+    "Recipe Name": "Elixir of Wings",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Silver Azalea x6, Pine Sap x4, Clear Liquid Reagent x1, Blood Group 2 x2",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Jump Height +2 for 5 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Elixir of Death",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Trace of Death x2, Powder of Flame x4, Blood Group 4 x2",
+    "Market Price": "200,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Critical Hit Damage +3% for 5 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Elixir of Wind",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Wild Grass x5, Pine Sap x3, Blood Group 2 x2",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Attack Speed +2 for 5 min",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,000,000"
+  },
+  {
+    "Recipe Name": "Elixir of Swiftness",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Silver Azalea x5, Pine Sap x3, Blood Group 2 x2",
+    "Market Price": "30,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Movement Speed +2 for 5 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Elixir of Spells",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Sunrise Herb x5, Trace of Ascension x3, Blood Group 2 x2",
+    "Market Price": "80,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Casting Speed +2 for 5 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Elixir of Seal",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Ash Sap x5, Trace of Ascension x3, Blood Group 2 x2",
+    "Market Price": "250,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP -5 for 5 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Elixir of Assassination",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Powder of Flame x5, Trace of Savagery x3, Blood Group 4 x2",
+    "Market Price": "200,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Back Attack Damage +3% for 5 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Elixir of Detection",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Powder of Darkness x4, Trace of Death x3, Blood Group 4 x2",
+    "Market Price": "75,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Critical Hit Rate +2 for 5 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Elixir of Sharp Detection",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Powder of Darkness x3, Trace of Ascension x3, Blood Group 4 x2",
+    "Market Price": "45,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Critical Hit Rate +3 for 5 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Elixir of Concentration",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Powder of Darkness x4, Trace of Ascension x3, Blood Group 4 x2",
+    "Market Price": "75,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All Accuracy +8 for 5 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Elixir of Will",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Emperor Mushroom x5, Trace of Ascension x3, Blood Group 2 x2",
+    "Market Price": "35,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All Damage Reduction +5 for 5 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Elixir of Fury",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Trace of Violence x3, Powder of Flame x4, Blood Group 4 x2",
+    "Market Price": "50,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +5 for 5 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Elixir of Resistance",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Emperor Mushroom x5, Trace of Battle x3, Blood Group 2 x2",
+    "Market Price": "40,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All Resistance +10% for 5 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Elixir of Life",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Pure Powder Reagent x1, Silver Azalea x5, Purified Water x3, Blood Group 2 x2",
+    "Market Price": "4,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Max HP +100 for 5 min",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,000,000"
+  },
+  {
+    "Recipe Name": "Elixir of Mentality",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Pure Powder Reagent x1, Ash Sap x5, Trace of Ascension x3, Blood Group 2 x2",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Max MP/WP/SP +150 for 5 min",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,000,000"
+  },
+  {
+    "Recipe Name": "Grim Reaper's Elixir",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Trace of Death x3, Powder of Darkness x3, Blood Group 4 x2",
+    "Market Price": "50,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Critical Hit Damage +3% for 5 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "EXP Elixir",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Arrow Mushroom x5, Trace of Battle x3, Blood Group 2 x2",
+    "Market Price": "35,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Combat EXP +10% for 5 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Defense Elixir",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Ash Sap x5, Blood Group 2 x2, Purified Water x3",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All Damage Reduction +5 for 5 min",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,000,000"
+  },
+  {
+    "Recipe Name": "Elixir of Carnage",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Powder of Flame x4, Trace of Violence x3, Blood Group 4 x2",
+    "Market Price": "150,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Damage to Kamasylvians +15 for 5 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Elixir of Sky",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Sky Mushroom x5, Trace of the Earth x3, Blood Group 4 x2",
+    "Market Price": "200,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Aerial Attack Damage +15 for 5 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "3,500,000"
+  },
+  {
+    "Recipe Name": "Elixir of Endurance",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Pure Powder Reagent x1, Everlasting Herb x5, Trace of Forest x3, Blood Group 2 x2",
+    "Market Price": "4,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Max Stamina +100 for 5 min",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,000,000"
+  },
+  {
+    "Recipe Name": "Worker's Elixir",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Ash Sap x5, Trace of Ascension x3, Blood Group 2 x2",
+    "Market Price": "45,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Gathering Speed +2 for 5 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Fisher's Elixir",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Sunrise Herb x5, Trace of the Earth x3, Blood Group 2 x2",
+    "Market Price": "6,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Fishing Speed +2 for 5 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Elixir of Burn Removal",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Fire Flake Flower x5, Fruit of Nature x3, Blood Group 2 x2",
+    "Market Price": "35,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Cures Burning",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Antidote Elixir",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Pure Powder Reagent x1, Fire Flake Flower x3, Blood Group 2 x2, Purified Water x3",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Cures Heatstroke and Hypothermia",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,000,000"
+  },
+  {
+    "Recipe Name": "Elixir of Hemostasis",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Bloody Tree Knot x3, Powder of Flame x6, Blood Group 2 x2",
+    "Market Price": "45,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Cures Bleeding",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Whale Tendon Elixir",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Blue Whale Tendon x1, Powder of Flame x5, Emperor Mushroom x5, Blood Group 4 x2",
+    "Market Price": "2,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +10 for 5 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "5,000,000"
+  },
+  {
+    "Recipe Name": "Perfume of Courage",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Blue Whale Oil x1, Trace of Savagery x6, Powder of Flame x30, Blood Group 4 x4",
+    "Market Price": "7,000,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +20, Max HP +200 for 20 min",
+    "Experience": "800-1000 XP",
+    "Silver/Hour": "10,000,000"
+  },
+  {
+    "Recipe Name": "Perfume of Swiftness",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Blue Whale Oil x1, Powder of Time x30, Everlasting Herb x6, Blood Group 4 x4",
+    "Market Price": "5,000,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Movement Speed +5, Attack Speed +5 for 20 min",
+    "Experience": "500-700 XP",
+    "Silver/Hour": "8,000,000"
+  },
+  {
+    "Recipe Name": "Griffon's Elixir",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Griffon Claw x1, Trace of Violence x3, Ash Sap x5, Blood Group 4 x2",
+    "Market Price": "85,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Damage to Demibeasts +15 for 5 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Khalk's Elixir",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Khalk's Wing x1, Powder of Darkness x5, Trace of Death x3, Blood Group 4 x2",
+    "Market Price": "1,800,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +10, All Special Attack Damage +10% for 5 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "4,000,000"
+  },
+  {
+    "Recipe Name": "Elixir of Time",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Powder of Time x5, Trace of the Earth x3, Blood Group 2 x2",
+    "Market Price": "200,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Life EXP +10% for 5 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Elixir of Training",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Powder of Flame x5, Trace of Battle x3, Blood Group 2 x2",
+    "Market Price": "30,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Mount EXP +8% for 5 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Marking Reagent",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Rough Stone x4, Trace of Battle x3, Blood Group 4 x2",
+    "Market Price": "280,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Elixir of Shock",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Bloody Tree Knot x3, Powder of Flame x5, Blood Group 4 x2",
+    "Market Price": "22,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Critical Hit Rate +2 for 5 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Elixir of Deep Sea",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Coral Piece x30, Powder of Time x30, Clear Liquid Reagent x10, Blood Group 4 x4",
+    "Market Price": "2,000,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +10, All Special Attack Damage +10% for 5 min",
+    "Experience": "500-700 XP",
+    "Silver/Hour": "5,000,000"
+  },
+  {
+    "Recipe Name": "Weenie Elixir",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Weeds x5, Trace of Ascension x3, Blood Group 2 x2",
+    "Market Price": "45,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Knowledge Gain Chance +5% for 5 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Looney Elixir",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Wild Grass x5, Trace of Ascension x3, Blood Group 2 x2",
+    "Market Price": "7,500 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Higher-Grade Knowledge Gain Chance +5% for 5 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Spirit Perfume Elixir",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Dead Tree Essence x1, Trace of Savagery x6, Powder of Darkness x30, Blood Group 4 x4",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +10, Max HP +150 for 5 min",
+    "Experience": "500-700 XP",
+    "Silver/Hour": "4,000,000"
+  },
+  {
+    "Recipe Name": "Helix Elixir",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Silver Azalea x6, Trace of Savagery x3, Blood Group 4 x2",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Knockdown/Bound Resistance +10% for 5 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Elixir of Skill",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Trace of Savagery x3, Powder of Earth x3, Blood Group 4 x2",
+    "Market Price": "200,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Skill EXP +10% for 5 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Elixir of Mastery",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Powder of Time x5, Trace of Battle x3, Blood Group 4 x2",
+    "Market Price": "40,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Life EXP +10% for 5 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Elixir of Labor",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Ash Sap x5, Trace of Ascension x3, Blood Group 2 x2",
+    "Market Price": "9,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Gathering Speed +2 for 5 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Elixir of Armor",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Pure Powder Reagent x1, Blood Group 2 x2, Ash Sap x5, Purified Water x3",
+    "Market Price": "40,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All Damage Reduction +5 for 5 min",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,000,000"
+  },
+  {
+    "Recipe Name": "Perfume of Charm",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Blue Whale Oil x1, Trace of Savagery x6, Powder of Darkness x30, Blood Group 4 x4",
+    "Market Price": "1,000,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +10, Max HP +150 for 20 min",
+    "Experience": "800-1000 XP",
+    "Silver/Hour": "6,000,000"
+  },
+  {
+    "Recipe Name": "Corrupt Oil of Immortality",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Corrupted Breath x1, Powder of Flame x100, Clear Liquid Reagent x50, Blood Group 4 x20",
+    "Market Price": "100,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "800-1000 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Elixir of Destruction",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Powder of Flame x5, Trace of Violence x3, Blood Group 4 x2",
+    "Market Price": "45,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Damage to Nagas +15 for 5 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Elixir of Persistence",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Powder of Darkness x5, Trace of Forest x3, Blood Group 4 x2",
+    "Market Price": "40,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Gathering EXP +10% for 5 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Elixir of Brawn",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Pure Powder Reagent x1, Blood Group 2 x2, Ash Sap x5, Purified Water x3",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Strength EXP +10% for 5 min",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,000,000"
+  },
+  {
+    "Recipe Name": "Perfume of Insight",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Blue Whale Oil x1, Trace of Savagery x6, Powder of Darkness x30, Blood Group 4 x4",
+    "Market Price": "3,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Knowledge Gain Chance +10% for 20 min",
+    "Experience": "500-700 XP",
+    "Silver/Hour": "7,000,000"
+  },
+  {
+    "Recipe Name": "Metal Solvent",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Rough Stone x4, Melted Iron Shard x3, Trace of Savagery x2",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Gem Polisher",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Pure Powder Reagent x1, Trace of Origin x2, Processed Coal x6, Purified Water x6",
+    "Market Price": "12,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Plywood Hardener",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Fir Sap x5, Trace of Savagery x3, Blood Group 4 x2",
+    "Market Price": "150,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Essence of Nature",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Pure Powder Reagent x1, Everlasting Herb x5, Trace of Forest x3, Blood Group 2 x2",
+    "Market Price": "18,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Clear Liquid Reagent",
+    "Skill Level": "Beginner Lv.1",
+    "Ingredients": "Wild Grass x1, Sunrise Herb x1, Salt x1, Purified Water x1",
+    "Market Price": "3,500 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "100-200 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Pure Powder Reagent",
+    "Skill Level": "Beginner Lv.1",
+    "Ingredients": "Wild Grass x1, Silver Azalea x1, Sugar x1, Purified Water x1",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "100-200 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Herbal Poison",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Amanita Mushroom x1, Sunrise Herb x3, Purified Water x3",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Inflicts 45 Poison Damage per 3 sec for 18 sec",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,000,000"
+  },
+  {
+    "Recipe Name": "Herbal Gunpowder",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Pure Powder Reagent x1, Fire Flake Flower x5, Black Stone Powder x4, Purified Water x3",
+    "Market Price": "250,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Refined Delotia Reagent",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Delotia x10, Sugar x10, Purified Water x7, Alchemy Stone Shard x1",
+    "Market Price": "2,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "5,000,000"
+  },
+  {
+    "Recipe Name": "Leather Glaze",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Powder of Darkness x10, Pig Hide x4, Blood Group 4 x2",
+    "Market Price": "200,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Legendary Beast's Blood",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Blood Group 4 x2, Trace of Savagery x3, Purified Water x3",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Tyrant's Blood",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Blood Group 4 x2, Trace of Violence x3, Purified Water x3",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Clown's Blood",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Blood Group 4 x2, Trace of Battle x3, Purified Water x3",
+    "Market Price": "20,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Sinner's Blood",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Blood Group 4 x2, Trace of Savagery x3, Purified Water x3",
+    "Market Price": "30,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Wise Man's Blood",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Blood Group 2 x2, Trace of Ascension x3, Purified Water x3",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Oil of Regeneration",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Everlasting Herb x5, Trace of Savagery x3, Blood Group 4 x2",
+    "Market Price": "500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "3,500,000"
+  },
+  {
+    "Recipe Name": "Oil of Storms",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Powder of Flame x5, Trace of Battle x3, Blood Group 4 x4",
+    "Market Price": "500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "500-700 XP",
+    "Silver/Hour": "4,000,000"
+  },
+  {
+    "Recipe Name": "Oil of Fortitude",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Powder of Darkness x5, Trace of Forest x3, Blood Group 4 x2",
+    "Market Price": "800,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "4,000,000"
+  },
+  {
+    "Recipe Name": "Oil of Corruption",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Powder of Darkness x5, Trace of Savagery x3, Blood Group 4 x4",
+    "Market Price": "2,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "500-700 XP",
+    "Silver/Hour": "5,000,000"
+  },
+  {
+    "Recipe Name": "Oil of Tranquility",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Bloody Tree Knot x5, Trace of Ascension x3, Blood Group 4 x4",
+    "Market Price": "7,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "500-700 XP",
+    "Silver/Hour": "6,000,000"
+  },
+  {
+    "Recipe Name": "Oil of the Abyss",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Powder of Darkness x5, Trace of Death x3, Blood Group 4 x4",
+    "Market Price": "6,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "800-1000 XP",
+    "Silver/Hour": "8,000,000"
+  },
+  {
+    "Recipe Name": "Oil of Enchantment",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Powder of Flame x5, Trace of Savagery x3, Blood Group 4 x4",
+    "Market Price": "1,200,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "800-1000 XP",
+    "Silver/Hour": "5,000,000"
+  },
+  {
+    "Recipe Name": "Vell's Fine Powder",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Vell's Heart x1, Black Stone Powder x10, Clear Liquid Reagent x5",
+    "Market Price": "150,000,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "800-1000 XP",
+    "Silver/Hour": "10,000,000"
+  },
+  {
+    "Recipe Name": "Special Honey Jar",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Cooking Honey x2, Sugar x10, Fruit x1",
+    "Market Price": "300,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Purified Lightstone of Fire",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Imperfect Lightstone of Fire x1, Black Gem Fragment x10, Black Stone Powder x20, Clear Liquid Reagent x5",
+    "Market Price": "50,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +3 when socketed",
+    "Experience": "500-700 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Purified Lightstone of Earth",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Imperfect Lightstone of Earth x1, Black Gem Fragment x10, Black Stone Powder x20, Clear Liquid Reagent x5",
+    "Market Price": "50,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All Resistance +3% when socketed",
+    "Experience": "500-700 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Purified Lightstone of Wind",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Imperfect Lightstone of Wind x1, Black Gem Fragment x10, Black Stone Powder x20, Clear Liquid Reagent x5",
+    "Market Price": "50,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Attack Speed +1 when socketed",
+    "Experience": "500-700 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Purified Lightstone of Flora",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Imperfect Lightstone of Flora x1, Black Gem Fragment x10, Black Stone Powder x20, Clear Liquid Reagent x5",
+    "Market Price": "50,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Life EXP +3% when socketed",
+    "Experience": "500-700 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Highly Concentrated Grain Juice",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Grain x30, Mineral Water x10, Sugar x5",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Recovers Horse HP +5000 (Instant)",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Refined Grain Juice",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Highly Concentrated Grain Juice x2, Sugar x10, Mineral Water x10",
+    "Market Price": "20,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Recovers Horse HP +8000 (Instant)",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Verdure Draught",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Elixir of Life x3, Elixir of Energy x3, Elixir of Endurance x3, Clear Liquid Reagent x5",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Max HP +200, Max Stamina +200 for 15 min",
+    "Experience": "800-1000 XP",
+    "Silver/Hour": "5,000,000"
+  },
+  {
+    "Recipe Name": "Beast's Draught",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Elixir of Fury x3, Elixir of Wind x3, Elixir of Spells x3, Clear Liquid Reagent x5",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +20, Attack Speed +3 for 15 min",
+    "Experience": "800-1000 XP",
+    "Silver/Hour": "5,000,000"
+  },
+  {
+    "Recipe Name": "Giant's Draught",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Elixir of Will x3, Elixir of Resistance x3, Elixir of Life x3, Clear Liquid Reagent x5",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Max HP +300, All Damage Reduction +10 for 15 min",
+    "Experience": "800-1000 XP",
+    "Silver/Hour": "5,000,000"
+  },
+  {
+    "Recipe Name": "Savage Draught",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Elixir of Human Hunt x3, Elixir of Demihuman Hunt x3, Elixir of Destruction x3, Clear Liquid Reagent x5",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Damage to Humans +20, Damage to Demihumans +20 for 15 min",
+    "Experience": "800-1000 XP",
+    "Silver/Hour": "5,000,000"
+  },
+  {
+    "Recipe Name": "Frenzy Draught",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Elixir of Frenzy x3, Elixir of Assassination x3, Elixir of Detection x3, Clear Liquid Reagent x5",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +30, All Damage Reduction -15 for 15 min",
+    "Experience": "800-1000 XP",
+    "Silver/Hour": "5,000,000"
+  },
+  {
+    "Recipe Name": "Celerity Draught",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Elixir of Swiftness x3, Elixir of Spells x3, Elixir of Wind x3, Clear Liquid Reagent x5",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Movement Speed +3, Attack Speed +3, Casting Speed +3 for 15 min",
+    "Experience": "800-1000 XP",
+    "Silver/Hour": "5,000,000"
+  },
+  {
+    "Recipe Name": "Unbridled Celerity Draught",
+    "Skill Level": "Guru Lv.1",
+    "Ingredients": "Celerity Draught x3, Elixir of Swiftness x10, Elixir of Spells x10, Clear Liquid Reagent x20",
+    "Market Price": "3,000,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Movement Speed +5, Attack Speed +5, Casting Speed +5 for 20 min",
+    "Experience": "1000-1200 XP",
+    "Silver/Hour": "8,000,000"
+  },
+  {
+    "Recipe Name": "Armor Draught",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Elixir of Resistance x3, Elixir of Will x3, Elixir of Life x3, Clear Liquid Reagent x5",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All Damage Reduction +15, All Resistance +10% for 15 min",
+    "Experience": "800-1000 XP",
+    "Silver/Hour": "5,000,000"
+  },
+  {
+    "Recipe Name": "Elixir of Indignation",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Clear Liquid Reagent x1, Powder of Flame x5, Trace of Savagery x3, Blood Group 4 x2",
+    "Market Price": "50,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Down Attack Damage +3% for 5 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Marvelous Draught of Persistence",
+    "Skill Level": "Guru Lv.1",
+    "Ingredients": "Verdure Draught x3, Elixir of Life x10, Elixir of Energy x10, Clear Liquid Reagent x20",
+    "Market Price": "3,000,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Max HP +400, Max Stamina +400 for 20 min",
+    "Experience": "1000-1200 XP",
+    "Silver/Hour": "8,000,000"
+  },
+  {
+    "Recipe Name": "Marvelous Draught of Strength",
+    "Skill Level": "Guru Lv.1",
+    "Ingredients": "Beast's Draught x3, Elixir of Fury x10, Elixir of Wind x10, Clear Liquid Reagent x20",
+    "Market Price": "3,000,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +40, Attack Speed +5 for 20 min",
+    "Experience": "1000-1200 XP",
+    "Silver/Hour": "8,000,000"
+  },
+  {
+    "Recipe Name": "Sturdy Whale Tendon Potion",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Whale Tendon Potion x3, Blue Whale Tendon x5, Clear Liquid Reagent x10",
+    "Market Price": "5,000,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Underwater Breathing +30 sec for 10 min",
+    "Experience": "500-700 XP",
+    "Silver/Hour": "6,000,000"
+  },
+  {
+    "Recipe Name": "Sturdy Whale Tendon Elixir",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Whale Tendon Elixir x3, Blue Whale Tendon x5, Clear Liquid Reagent x10",
+    "Market Price": "5,000,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +20 for 10 min",
+    "Experience": "500-700 XP",
+    "Silver/Hour": "6,000,000"
+  },
+  {
+    "Recipe Name": "Fury Draught",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Elixir of Fury x3, Elixir of Wind x3, Elixir of Spells x3, Clear Liquid Reagent x5",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +20, Attack Speed +3 for 15 min",
+    "Experience": "800-1000 XP",
+    "Silver/Hour": "5,000,000"
+  },
+  {
+    "Recipe Name": "Adaptation Draught",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Elixir of Resistance x3, Elixir of Will x3, Elixir of Life x3, Clear Liquid Reagent x5",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All Damage Reduction +15, All Resistance +10% for 15 min",
+    "Experience": "800-1000 XP",
+    "Silver/Hour": "5,000,000"
+  },
+  {
+    "Recipe Name": "Potential Draught",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Elixir of Skill x3, Elixir of Time x3, Elixir of Mastery x3, Clear Liquid Reagent x5",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Combat EXP +15%, Skill EXP +15% for 15 min",
+    "Experience": "800-1000 XP",
+    "Silver/Hour": "5,000,000"
+  },
+  {
+    "Recipe Name": "Corruption Draught",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Elixir of Frenzy x3, Elixir of Assassination x3, Elixir of Detection x3, Clear Liquid Reagent x5",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +30, All Damage Reduction -15 for 15 min",
+    "Experience": "800-1000 XP",
+    "Silver/Hour": "5,000,000"
+  },
+  {
+    "Recipe Name": "Berserk Draught",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Elixir of Human Hunt x3, Elixir of Demihuman Hunt x3, Elixir of Destruction x3, Clear Liquid Reagent x5",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Damage to Humans +20, Damage to Demihumans +20 for 15 min",
+    "Experience": "800-1000 XP",
+    "Silver/Hour": "5,000,000"
+  },
+  {
+    "Recipe Name": "Harmony Draught",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Elixir of Life x3, Elixir of Energy x3, Elixir of Endurance x3, Clear Liquid Reagent x5",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Max HP +200, Max Stamina +200 for 15 min",
+    "Experience": "800-1000 XP",
+    "Silver/Hour": "5,000,000"
+  },
+  {
+    "Recipe Name": "Immortal: Harmony Draught",
+    "Skill Level": "Guru Lv.1",
+    "Ingredients": "Harmony Draught x3, Elixir of Life x10, Elixir of Energy x10, Clear Liquid Reagent x20",
+    "Market Price": "3,000,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Max HP +400, Max Stamina +400 for 20 min",
+    "Experience": "1000-1200 XP",
+    "Silver/Hour": "8,000,000"
+  },
+  {
+    "Recipe Name": "[Party] Harmony Draught - Human",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Elixir of Human Hunt x3, Elixir of Demihuman Hunt x3, Elixir of Destruction x3, Clear Liquid Reagent x5",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Damage to Humans +20, Damage to Demihumans +20 for 15 min (Party)",
+    "Experience": "800-1000 XP",
+    "Silver/Hour": "5,000,000"
+  },
+  {
+    "Recipe Name": "[Party] Harmony Draught - Demihuman",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Elixir of Human Hunt x3, Elixir of Demihuman Hunt x3, Elixir of Destruction x3, Clear Liquid Reagent x5",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Damage to Humans +20, Damage to Demihumans +20 for 15 min (Party)",
+    "Experience": "800-1000 XP",
+    "Silver/Hour": "5,000,000"
+  },
+  {
+    "Recipe Name": "[Party] Harmony Draught - Kamasylvia",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Elixir of Human Hunt x3, Elixir of Demihuman Hunt x3, Elixir of Destruction x3, Clear Liquid Reagent x5",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Damage to Humans +20, Damage to Demihumans +20 for 15 min (Party)",
+    "Experience": "800-1000 XP",
+    "Silver/Hour": "5,000,000"
+  },
+  {
+    "Recipe Name": "Melted Iron Shard",
+    "Skill Level": "Beginner Lv.1",
+    "Ingredients": "Iron Ore x5",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "100-200 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Iron Ingot",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Melted Iron Shard x5",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Pure Iron Crystal",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Iron Ingot x5, Metal Solvent x3",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Melted Lead Shard",
+    "Skill Level": "Beginner Lv.1",
+    "Ingredients": "Lead Ore x5",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "100-200 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Lead Ingot",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Melted Lead Shard x5",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Pure Lead Crystal",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Lead Ingot x5, Metal Solvent x3",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Melted Copper Shard",
+    "Skill Level": "Beginner Lv.1",
+    "Ingredients": "Copper Ore x5",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "100-200 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Copper Ingot",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Melted Copper Shard x5",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Pure Copper Crystal",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Copper Ingot x5, Metal Solvent x3",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Melted Tin Shard",
+    "Skill Level": "Beginner Lv.1",
+    "Ingredients": "Tin Ore x5",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "100-200 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Tin Ingot",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Melted Tin Shard x5",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Pure Tin Crystal",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Tin Ingot x5, Metal Solvent x3",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Melted Zinc Shard",
+    "Skill Level": "Beginner Lv.1",
+    "Ingredients": "Zinc Ore x5",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "100-200 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Zinc Ingot",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Melted Zinc Shard x5",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Pure Zinc Crystal",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Zinc Ingot x5, Metal Solvent x3",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Brass Ingot",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Melted Copper Shard x5, Melted Zinc Shard x5",
+    "Market Price": "8,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Bronze Ingot",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Melted Copper Shard x5, Melted Tin Shard x5",
+    "Market Price": "8,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Polished Stone",
+    "Skill Level": "Beginner Lv.1",
+    "Ingredients": "Rough Stone x10",
+    "Market Price": "1,500 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "100-200 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Processed Coal",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Coal x5",
+    "Market Price": "2,500 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used in Alchemy (No direct effect)",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,000,000"
+  }
+]

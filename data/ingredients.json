@@ -1,0 +1,1487 @@
+[
+  {
+    "Ingredient Name": "Aloe",
+    "Category": "Vegetable",
+    "Market Price": "1,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Farm",
+    "Substitutable": "No",
+    "Common Uses": "Aloe Cookie, Aloe Yogurt"
+  },
+  {
+    "Ingredient Name": "Ash Sap",
+    "Category": "Reagent",
+    "Market Price": "500 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Elixir of Amity, Golden Hand Elixir, Elixir of Human Hunt",
+    "Location Details": "Can be obtained by sending workers to lumbering nodes like Ash Forest (north of Calpheon) or Lumberjack’s Rest Area (south of Trent)."
+  },
+  {
+    "Ingredient Name": "Arrow Mushroom",
+    "Category": "Mushroom",
+    "Market Price": "1,200 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Elixir of Human Hunt, EXP Elixir",
+    "Location Details": "Gathered using bare hands or a hoe at Forest of Plunder (west of Calpheon) or Southern Cienaga (north of Glish)."
+  },
+  {
+    "Ingredient Name": "Amanita Mushroom",
+    "Category": "Mushroom",
+    "Market Price": "1,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Herbal Poison",
+    "Location Details": "Gathered using bare hands or a hoe at Behr (south of Calpheon) or Polly’s Forest (north of Grána)."
+  },
+  {
+    "Ingredient Name": "Ash Timber",
+    "Category": "Timber",
+    "Market Price": "500 Silver",
+    "Weight": "0.50 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Ash Plank, Apprentice's Timber Box",
+    "Location Details": "Produced at Ash Forest (north of Calpheon) or Serendia Shrine (southwest of Heidel) by sending workers to lumbering nodes."
+  },
+  {
+    "Ingredient Name": "Acacia Timber",
+    "Category": "Timber",
+    "Market Price": "700 Silver",
+    "Weight": "0.50 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Acacia Plank, Artisan's Timber Box",
+    "Location Details": "Produced at Areha Palm Forest (south of Arehaza, Valencia) or Shakatu Farmland (east of Shakatu, Valencia) by sending workers to lumbering nodes."
+  },
+  {
+    "Ingredient Name": "Ancient Tree Timber",
+    "Category": "Timber",
+    "Market Price": "1,000 Silver",
+    "Weight": "0.50 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Ancient Tree Plank, Master's Timber Box",
+    "Location Details": "Produced at Ancient Fissure (north of Calpheon) or Tooth Fairy Forest (west of Grána, Kamasylvia) by sending workers to lumbering nodes."
+  },
+  {
+    "Ingredient Name": "Bear Hide",
+    "Category": "Hide",
+    "Market Price": "1,500 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Tough Hide, Apprentice's Hide Box",
+    "Location Details": "Obtained by hunting bears in Balenos Mountains (near Olvia) or Drieghan’s Tshira Ruins (south of Duvencrune) using a fluid collector."
+  },
+  {
+    "Ingredient Name": "Black Stone Powder",
+    "Category": "Reagent",
+    "Market Price": "500 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Market",
+    "Substitutable": "No",
+    "Common Uses": "Herbal Gunpowder, Vell's Fine Powder, Purified Lightstone recipes"
+  },
+  {
+    "Ingredient Name": "Base Sauce",
+    "Category": "Sauce",
+    "Market Price": "500 Silver",
+    "Weight": "0.01 LT",
+    "Source": "Market",
+    "Substitutable": "No",
+    "Common Uses": "White Sauce, Red Sauce"
+  },
+  {
+    "Ingredient Name": "Butter",
+    "Category": "Dairy",
+    "Market Price": "1,000 Silver",
+    "Weight": "0.01 LT",
+    "Source": "Market",
+    "Substitutable": "No",
+    "Common Uses": "Sute Tea, Grilled Scorpion, Butter-roasted Lobster"
+  },
+  {
+    "Ingredient Name": "Bloody Tree Knot",
+    "Category": "Reagent",
+    "Market Price": "700 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Elixir of Hemostasis, Oil of Tranquility"
+  },
+  {
+    "Ingredient Name": "Blood Group 2",
+    "Category": "Reagent",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Multiple Alchemy recipes",
+    "Location Details": "Gathered with a fluid collector from beasts like wolves in Balenos Forest (east of Velia) or deer in Behr (south of Calpheon)."
+  },
+  {
+    "Ingredient Name": "Blood Group 4",
+    "Category": "Reagent",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Multiple Alchemy recipes",
+    "Location Details": "Gathered with a fluid collector from beasts like bears in Balenos Mountains (near Olvia) or rhinos in Valencia’s Basilisk Den (west of Valencia City)."
+  },
+  {
+    "Ingredient Name": "Blood Group 5",
+    "Category": "Reagent",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Golden Hand Elixir, Elixir of Draining",
+    "Location Details": "Gathered with a fluid collector from beasts like lions in Valencia’s Roud Sulfur Mine (northwest of Valencia City) or elephants in Navarn Steppe (north of Grána)."
+  },
+  {
+    "Ingredient Name": "Blue Whale Tendon",
+    "Category": "Reagent",
+    "Market Price": "1,000,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "No",
+    "Common Uses": "Whale Tendon Potion, Whale Tendon Elixir",
+    "Location Details": "Obtained by hunting blue whales in the Margoria Sea (requires a hunting matchlock and a boat, often announced via in-game messages)."
+  },
+  {
+    "Ingredient Name": "Blue Whale Oil",
+    "Category": "Reagent",
+    "Market Price": "2,000,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "No",
+    "Common Uses": "Perfume of Courage, Perfume of Swiftness, Perfume of Charm",
+    "Location Details": "Obtained by hunting blue whales in the Margoria Sea (requires a hunting matchlock and a boat, often announced via in-game messages)."
+  },
+  {
+    "Ingredient Name": "Black Gem Fragment",
+    "Category": "Reagent",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Market",
+    "Substitutable": "No",
+    "Common Uses": "Purified Lightstone recipes"
+  },
+  {
+    "Ingredient Name": "Birch Timber",
+    "Category": "Timber",
+    "Market Price": "500 Silver",
+    "Weight": "0.50 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Birch Plank, Professional's Timber Box",
+    "Location Details": "Produced at Forest of Seclusion (north of Calpheon) or Northern Plain of Serendia (north of Heidel) by sending workers to lumbering nodes."
+  },
+  {
+    "Ingredient Name": "Bracken",
+    "Category": "Vegetable",
+    "Market Price": "1,200 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Stir-Fried Bracken, Dalbeol Gukbap",
+    "Location Details": "Gathered using bare hands or a hoe at Quint Hill (north of Calpheon) or Tshira Ruins (south of Duvencrune)."
+  },
+  {
+    "Ingredient Name": "Bird Meat",
+    "Category": "Meat",
+    "Market Price": "1,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Stir-Fried Bird, Fried Bird, Dark Pudding",
+    "Location Details": "Obtained by hunting birds like kuku birds in Balenos Islands (southwest of Velia) or flamingos in Navarn Steppe (north of Grána) using a fluid collector."
+  },
+  {
+    "Ingredient Name": "Chicken Meat",
+    "Category": "Meat",
+    "Market Price": "1,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Farm",
+    "Substitutable": "Yes",
+    "Common Uses": "Chicken Breast Salad, Mesima Chicken Soup"
+  },
+  {
+    "Ingredient Name": "Cabbage",
+    "Category": "Vegetable",
+    "Market Price": "800 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Farm",
+    "Substitutable": "Yes",
+    "Common Uses": "White Kimchi, Moodle Gukbap"
+  },
+  {
+    "Ingredient Name": "Cedar Timber",
+    "Category": "Timber",
+    "Market Price": "500 Silver",
+    "Weight": "0.50 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Cedar Plank, Professional's Timber Box",
+    "Location Details": "Produced at Mediah Northern Highlands (north of Altinova) or Oze Pass (west of Calpheon) by sending workers to lumbering nodes."
+  },
+  {
+    "Ingredient Name": "Coconut",
+    "Category": "Fruit",
+    "Market Price": "1,500 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Coconut Cocktail, Coconut Pasta, Coconut Fried Fish",
+    "Location Details": "Produced at Areha Palm Forest (south of Arehaza, Valencia) by sending workers to gathering nodes."
+  },
+  {
+    "Ingredient Name": "Chanterelle",
+    "Category": "Mushroom",
+    "Market Price": "1,200 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Chanterelle Stew, Stir-Fried Chanterelle and Meat",
+    "Location Details": "Gathered using bare hands or a hoe at Polly’s Forest (north of Grána) or Tooth Fairy Forest (west of Grána)."
+  },
+  {
+    "Ingredient Name": "Citron",
+    "Category": "Fruit",
+    "Market Price": "1,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Farm",
+    "Substitutable": "No",
+    "Common Uses": "Citron Cider, Citron Juice, Citron Candy"
+  },
+  {
+    "Ingredient Name": "Coral Piece",
+    "Category": "Reagent",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Elixir of Deep Sea, Jade Coral Ingot",
+    "Location Details": "Produced at Weita Island (northwest of Velia) or Randis Island (southwest of Iliya Island) by sending workers to gathering nodes."
+  },
+  {
+    "Ingredient Name": "Corrupted Breath",
+    "Category": "Reagent",
+    "Market Price": "50,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "No",
+    "Common Uses": "Corrupt Oil of Immortality",
+    "Location Details": "Dropped rarely by monsters in high-level areas like Ash Forest (north of Calpheon) or Gyfin Rhasia Temple (southwest of Grána)."
+  },
+  {
+    "Ingredient Name": "Cream",
+    "Category": "Dairy",
+    "Market Price": "1,000 Silver",
+    "Weight": "0.01 LT",
+    "Source": "Market",
+    "Substitutable": "No",
+    "Common Uses": "Fruit Pudding, Fish Soup, Rainbow Button Mushroom Sandwich"
+  },
+  {
+    "Ingredient Name": "Cinnamon",
+    "Category": "Spice",
+    "Market Price": "800 Silver",
+    "Weight": "0.01 LT",
+    "Source": "Market",
+    "Substitutable": "Yes",
+    "Common Uses": "Borscht, Pistachio Fried Rice, Desert Dumpling"
+  },
+  {
+    "Ingredient Name": "Coal",
+    "Category": "Ore",
+    "Market Price": "500 Silver",
+    "Weight": "0.30 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Processed Coal, Steel",
+    "Location Details": "Produced at Keplan Quarry (southeast of Keplan) or Glutoni Cave (north of Calpheon) by sending workers to mining nodes."
+  },
+  {
+    "Ingredient Name": "Chicken Feather",
+    "Category": "Feather",
+    "Market Price": "800 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Lightweight Feather, Guru's Hide Box",
+    "Location Details": "Gathered by hunting chickens at Bartali Farm (east of Velia) or Finto Farm (south of Velia) using a fluid collector."
+  },
+  {
+    "Ingredient Name": "Cloud Mushroom",
+    "Category": "Mushroom",
+    "Market Price": "1,200 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Elixir of Demihuman Hunt",
+    "Location Details": "Gathered using bare hands or a hoe at Glish Swamp (south of Glish) or Southern Cienaga (north of Glish)."
+  },
+  {
+    "Ingredient Name": "Copper Ore",
+    "Category": "Ore",
+    "Market Price": "500 Silver",
+    "Weight": "0.30 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Melted Copper Shard, Apprentice's Metal Box",
+    "Location Details": "Produced at Northern Heidel Quarry (north of Heidel) or Goblin Cave (west of Velia) by sending workers to mining nodes."
+  },
+  {
+    "Ingredient Name": "Cooking Wine",
+    "Category": "Reagent",
+    "Market Price": "500 Silver",
+    "Weight": "0.01 LT",
+    "Source": "Market",
+    "Substitutable": "Yes",
+    "Common Uses": "White Sauce, Grain Soup, Grilled Bird Meat"
+  },
+  {
+    "Ingredient Name": "Cooking Honey",
+    "Category": "Reagent",
+    "Market Price": "1,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Farm",
+    "Substitutable": "Yes",
+    "Common Uses": "Honey Wine, Oatmeal, Honeycomb Cookie"
+  },
+  {
+    "Ingredient Name": "Carrot",
+    "Category": "Vegetable",
+    "Market Price": "800 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Farm",
+    "Substitutable": "Yes",
+    "Common Uses": "Carrot Confit"
+  },
+  {
+    "Ingredient Name": "Date Palm",
+    "Category": "Fruit",
+    "Market Price": "1,200 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Date Palm Wine, Couscous"
+  },
+  {
+    "Ingredient Name": "Dried Pearl Oyster Flesh",
+    "Category": "Seafood",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Chowder"
+  },
+  {
+    "Ingredient Name": "Deer Hide",
+    "Category": "Hide",
+    "Market Price": "1,500 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Soft Hide, Apprentice's Hide Box",
+    "Location Details": "Obtained by hunting deer in Balenos Forest (east of Velia) or Behr (south of Calpheon) using a fluid collector."
+  },
+  {
+    "Ingredient Name": "Delotia",
+    "Category": "Flower",
+    "Market Price": "1,500 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "No",
+    "Common Uses": "Delotia Tart, Delotia Juice, Refined Delotia Reagent",
+    "Location Details": "Gathered using bare hands or a hoe in O’dyllita regions like Narcion (north of O’draxxia) or Delotia Meadow (southwest of O’draxxia)."
+  },
+  {
+    "Ingredient Name": "Deep Frying Oil",
+    "Category": "Reagent",
+    "Market Price": "500 Silver",
+    "Weight": "0.01 LT",
+    "Source": "Market",
+    "Substitutable": "Yes",
+    "Common Uses": "Fish Fillet Chips, Fried Bird"
+  },
+  {
+    "Ingredient Name": "Egg",
+    "Category": "Dairy",
+    "Market Price": "500 Silver",
+    "Weight": "0.01 LT",
+    "Source": "Farm",
+    "Substitutable": "Yes",
+    "Common Uses": "Aloe Cookie, Dressing, Fried Vegetables"
+  },
+  {
+    "Ingredient Name": "Everlasting Herb",
+    "Category": "Herb",
+    "Market Price": "1,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Elixir of Endurance, Essence of Nature",
+    "Location Details": "Gathered using bare hands or a hoe at Tooth Fairy Forest (west of Grána) or Navarn Steppe (north of Grána)."
+  },
+  {
+    "Ingredient Name": "Emperor Mushroom",
+    "Category": "Mushroom",
+    "Market Price": "1,200 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Elixir of Will, Elixir of Resistance",
+    "Location Details": "Gathered using bare hands or a hoe at Polly’s Forest (north of Grána) or Mansha Forest (southwest of Calpheon)."
+  },
+  {
+    "Ingredient Name": "Elder Tree Timber",
+    "Category": "Timber",
+    "Market Price": "700 Silver",
+    "Weight": "0.50 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Elder Tree Plank, Sturdy Elder Tree Plywood",
+    "Location Details": "Produced at Elder Tree Forest (northwest of Calpheon) or Khuruto Cave (south of Calpheon) by sending workers to lumbering nodes."
+  },
+  {
+    "Ingredient Name": "Fruit of Nature",
+    "Category": "Reagent",
+    "Market Price": "800 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Elixir of Burn Removal",
+    "Location Details": "Gathered using bare hands or a hoe at Quint Hill (north of Calpheon) or Navarn Steppe (north of Grána)."
+  },
+  {
+    "Ingredient Name": "Fir Timber",
+    "Category": "Timber",
+    "Market Price": "500 Silver",
+    "Weight": "0.50 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Fir Plank, Skilled Processor's Timber Box",
+    "Location Details": "Produced at Forest of Seclusion (north of Calpheon) or Mansha Forest (southwest of Calpheon) by sending workers to lumbering nodes."
+  },
+  {
+    "Ingredient Name": "Fir Sap",
+    "Category": "Reagent",
+    "Market Price": "500 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Plywood Hardener",
+    "Location Details": "Produced at Mansha Forest (southwest of Calpheon) or Forest of Seclusion (north of Calpheon) by sending workers to lumbering nodes."
+  },
+  {
+    "Ingredient Name": "Flamingo Feather",
+    "Category": "Feather",
+    "Market Price": "800 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Light Feather",
+    "Location Details": "Obtained by hunting flamingos in Navarn Steppe (north of Grána) or Lake Flondor (east of Grána) using a fluid collector."
+  },
+  {
+    "Ingredient Name": "Ferri Feather",
+    "Category": "Feather",
+    "Market Price": "800 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Soft Ferri Feather",
+    "Location Details": "Obtained by hunting ferri birds in Kamasylvia regions like Navarn Steppe (north of Grána) or Lemoria Guard Post (west of Grána) using a fluid collector."
+  },
+  {
+    "Ingredient Name": "Fox Hide",
+    "Category": "Hide",
+    "Market Price": "1,500 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Thin Hide, Skilled Processor's Hide Box",
+    "Location Details": "Obtained by hunting foxes in Balenos Forest (east of Velia) or Drieghan’s Khalk Canyon (northwest of Duvencrune) using a fluid collector."
+  },
+  {
+    "Ingredient Name": "Flour",
+    "Category": "Grain",
+    "Market Price": "500 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Market",
+    "Substitutable": "Yes",
+    "Common Uses": "Essence of Liquor, Oatmeal, Fried Fish"
+  },
+  {
+    "Ingredient Name": "Freekeh",
+    "Category": "Grain",
+    "Market Price": "1,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Farm",
+    "Substitutable": "Yes",
+    "Common Uses": "Freekeh Snake Stew, Pistachio Fried Rice"
+  },
+  {
+    "Ingredient Name": "Frying Oil",
+    "Category": "Reagent",
+    "Market Price": "500 Silver",
+    "Weight": "0.01 LT",
+    "Source": "Market",
+    "Substitutable": "Yes",
+    "Common Uses": "Fried Bird, Fried Fish, Good Feed"
+  },
+  {
+    "Ingredient Name": "Fruit",
+    "Category": "Fruit",
+    "Market Price": "800 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Farm",
+    "Substitutable": "Yes",
+    "Common Uses": "White Sauce, Fruit Juice, Fruit Sherbet"
+  },
+  {
+    "Ingredient Name": "Garlic",
+    "Category": "Vegetable",
+    "Market Price": "800 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Farm",
+    "Substitutable": "Yes",
+    "Common Uses": "Stir-Fried Vegetables, Steak, Chanterelle Stew"
+  },
+  {
+    "Ingredient Name": "Grain",
+    "Category": "Grain",
+    "Market Price": "500 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Farm",
+    "Substitutable": "Yes",
+    "Common Uses": "Grain Soup, Vinegar, Highly Concentrated Grain Juice"
+  },
+  {
+    "Ingredient Name": "Goosefoot Leaves",
+    "Category": "Vegetable",
+    "Market Price": "800 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Dalbeol Gukbap",
+    "Location Details": "Gathered using bare hands or a hoe at Tshira Ruins (south of Duvencrune) or Khalk Canyon (northwest of Duvencrune)."
+  },
+  {
+    "Ingredient Name": "Ground Bird Meat",
+    "Category": "Meat",
+    "Market Price": "1,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Market",
+    "Substitutable": "Yes",
+    "Common Uses": "Five-Grain Chicken Porridge"
+  },
+  {
+    "Ingredient Name": "Griffon Claw",
+    "Category": "Reagent",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "No",
+    "Common Uses": "Griffon's Elixir",
+    "Location Details": "Dropped by griffons in Navarn Steppe (north of Grána) or Kamasylvia’s Griffon’s Nest (northwest of Grána)."
+  },
+  {
+    "Ingredient Name": "Hot Pepper",
+    "Category": "Spice",
+    "Market Price": "800 Silver",
+    "Weight": "0.01 LT",
+    "Source": "Farm",
+    "Substitutable": "Yes",
+    "Common Uses": "Stir-Fried Meat, Red Sauce, Bean Sprout Salad"
+  },
+  {
+    "Ingredient Name": "HP Potion (Medium)",
+    "Category": "Potion",
+    "Market Price": "500 Silver",
+    "Weight": "0.25 LT",
+    "Source": "Market",
+    "Substitutable": "No",
+    "Common Uses": "Whale Tendon Potion, Sturdy Whale Tendon Potion"
+  },
+  {
+    "Ingredient Name": "High-Quality Carrot",
+    "Category": "Vegetable",
+    "Market Price": "1,200 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Farm",
+    "Substitutable": "No",
+    "Common Uses": "High-quality Carrot Juice"
+  },
+  {
+    "Ingredient Name": "Imperfect Lightstone of Fire",
+    "Category": "Reagent",
+    "Market Price": "50,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "No",
+    "Common Uses": "Purified Lightstone of Fire",
+    "Location Details": "Dropped rarely by monsters in high-level areas like Ash Forest (north of Calpheon) or Sycraia Underwater Ruins (north of Grána)."
+  },
+  {
+    "Ingredient Name": "Imperfect Lightstone of Earth",
+    "Category": "Reagent",
+    "Market Price": "50,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "No",
+    "Common Uses": "Purified Lightstone of Earth",
+    "Location Details": "Dropped rarely by monsters in high-level areas like Tshira Ruins (south of Duvencrune) or Gyfin Rhasia Temple (southwest of Grána)."
+  },
+  {
+    "Ingredient Name": "Imperfect Lightstone of Wind",
+    "Category": "Reagent",
+    "Market Price": "50,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "No",
+    "Common Uses": "Purified Lightstone of Wind",
+    "Location Details": "Dropped rarely by monsters in high-level areas like Navarn Steppe (north of Grána) or Manshaum Forest (north of Grána)."
+  },
+  {
+    "Ingredient Name": "Imperfect Lightstone of Flora",
+    "Category": "Reagent",
+    "Market Price": "50,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "No",
+    "Common Uses": "Purified Lightstone of Flora",
+    "Location Details": "Dropped rarely by monsters in high-level areas like Polly’s Forest (north of Grána) or Tooth Fairy Forest (west of Grána)."
+  },
+  {
+    "Ingredient Name": "Iron Ore",
+    "Category": "Ore",
+    "Market Price": "500 Silver",
+    "Weight": "0.30 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Melted Iron Shard, Apprentice's Metal Box",
+    "Location Details": "Produced at Coastal Cave (west of Velia) or Northern Heidel Quarry (north of Heidel) by sending workers to mining nodes."
+  },
+  {
+    "Ingredient Name": "Jujube",
+    "Category": "Fruit",
+    "Market Price": "1,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Farm",
+    "Substitutable": "Yes",
+    "Common Uses": "Jujube Tea"
+  },
+  {
+    "Ingredient Name": "Khalk's Wing",
+    "Category": "Reagent",
+    "Market Price": "500,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "No",
+    "Common Uses": "Khalk's Elixir, Khalk's Fermented Wine"
+  },
+  {
+    "Ingredient Name": "Kuku Bird Feather",
+    "Category": "Feather",
+    "Market Price": "800 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Fancy Feather, Guru's Hide Box",
+    "Location Details": "Obtained by hunting kuku birds in Balenos Islands (southwest of Velia) or Navarn Steppe (north of Grána) using a fluid collector."
+  },
+  {
+    "Ingredient Name": "Leavening Agent",
+    "Category": "Reagent",
+    "Market Price": "500 Silver",
+    "Weight": "0.01 LT",
+    "Source": "Market",
+    "Substitutable": "Yes",
+    "Common Uses": "Essence of Liquor, Soft Bread, Beer"
+  },
+  {
+    "Ingredient Name": "Lion Meat",
+    "Category": "Meat",
+    "Market Price": "50,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "King of Jungle Hamburg"
+  },
+  {
+    "Ingredient Name": "Lizard Hide",
+    "Category": "Hide",
+    "Market Price": "1,500 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Fancy Reptile Skin, Artisan's Hide Box",
+    "Location Details": "Obtained by hunting lizards in Valencia’s Basilisk Den (west of Valencia City) or Glish Swamp (south of Glish) using a fluid collector."
+  },
+  {
+    "Ingredient Name": "Loopy Tree Timber",
+    "Category": "Timber",
+    "Market Price": "800 Silver",
+    "Weight": "0.50 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Loopy Tree Plank, Guru's Timber Box",
+    "Location Details": "Produced at Loopy Tree Forest (northwest of Grána) or Acher Guard Post (southwest of Grána) by sending workers to lumbering nodes."
+  },
+  {
+    "Ingredient Name": "Llama Meat",
+    "Category": "Meat",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Skewered Llama Cheese Melt",
+    "Location Details": "Obtained by hunting llamas in Drieghan’s Khalk Canyon (northwest of Duvencrune) or Sherekhan Necropolis (north of Duvencrune) using a fluid collector."
+  },
+  {
+    "Ingredient Name": "Maple Timber",
+    "Category": "Timber",
+    "Market Price": "500 Silver",
+    "Weight": "0.50 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Maple Plank, Apprentice's Timber Box",
+    "Location Details": "Produced at Castle Ruins (southwest of Heidel) or Mediah Northern Highlands (north of Altinova) by sending workers to lumbering nodes."
+  },
+  {
+    "Ingredient Name": "Meat",
+    "Category": "Meat",
+    "Market Price": "1,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Red Sauce, Steak, Meat Stew, Good Feed",
+    "Location Details": "Gathered with a fluid collector from beasts like wolves in Balenos Forest (east of Velia), bears in Balenos Mountains (near Olvia), or lions in Valencia’s Roud Sulfur Mine (northwest of Valencia City)."
+  },
+  {
+    "Ingredient Name": "Milk",
+    "Category": "Dairy",
+    "Market Price": "500 Silver",
+    "Weight": "0.01 LT",
+    "Source": "Farm",
+    "Substitutable": "Yes",
+    "Common Uses": "Chowder, Fruit Pudding, Soft Bread"
+  },
+  {
+    "Ingredient Name": "Mineral Water",
+    "Category": "Reagent",
+    "Market Price": "500 Silver",
+    "Weight": "0.01 LT",
+    "Source": "Market",
+    "Substitutable": "Yes",
+    "Common Uses": "Dressing, Grain Soup, Highly Concentrated Grain Juice"
+  },
+  {
+    "Ingredient Name": "Mesima",
+    "Category": "Mushroom",
+    "Market Price": "1,500 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Single-brewed Mesima Tea, Mesima Chicken Soup",
+    "Location Details": "Gathered using bare hands or a hoe at Tooth Fairy Forest (west of Grána) or Lemoria Guard Post (west of Grána)."
+  },
+  {
+    "Ingredient Name": "Moss Tree Timber",
+    "Category": "Timber",
+    "Market Price": "800 Silver",
+    "Weight": "0.50 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Moss Tree Plank, Master's Timber Box",
+    "Location Details": "Produced at Moss Tree Forest (northwest of Grána) or Acher Guard Post (southwest of Grána) by sending workers to lumbering nodes."
+  },
+  {
+    "Ingredient Name": "MP Potion (Small)",
+    "Category": "Potion",
+    "Market Price": "300 Silver",
+    "Weight": "0.20 LT",
+    "Source": "Market",
+    "Substitutable": "No",
+    "Common Uses": "Elixir of Energy"
+  },
+  {
+    "Ingredient Name": "MP Potion (Medium)",
+    "Category": "Potion",
+    "Market Price": "500 Silver",
+    "Weight": "0.25 LT",
+    "Source": "Market",
+    "Substitutable": "No",
+    "Common Uses": "Whale Tendon Potion, Sturdy Whale Tendon Potion"
+  },
+  {
+    "Ingredient Name": "Mungbean",
+    "Category": "Grain",
+    "Market Price": "1,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Farm",
+    "Substitutable": "Yes",
+    "Common Uses": "Mungbean Jeon"
+  },
+  {
+    "Ingredient Name": "Mushroom",
+    "Category": "Mushroom",
+    "Market Price": "800 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Seafood Mushroom Salad",
+    "Location Details": "Gathered using bare hands or a hoe at Forest of Plunder (west of Calpheon) or Polly’s Forest (north of Grána)."
+  },
+  {
+    "Ingredient Name": "Mythril Ore",
+    "Category": "Ore",
+    "Market Price": "1,000 Silver",
+    "Weight": "0.30 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Melted Mythril Shard, Guru's Metal Box",
+    "Location Details": "Produced at Khuruto Cave (south of Calpheon) or Primal Giant Post (southeast of Calpheon) by sending workers to mining nodes."
+  },
+  {
+    "Ingredient Name": "Napa Cabbage",
+    "Category": "Vegetable",
+    "Market Price": "800 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Farm",
+    "Substitutable": "Yes",
+    "Common Uses": "Moodle Gukbap, Byeot County Gukbap"
+  },
+  {
+    "Ingredient Name": "Nickel Ore",
+    "Category": "Ore",
+    "Market Price": "500 Silver",
+    "Weight": "0.30 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Melted Nickel Shard",
+    "Location Details": "Produced at Glish Swamp (south of Glish) or Southern Cienaga (north of Glish) by sending workers to mining nodes."
+  },
+  {
+    "Ingredient Name": "Nutmeg",
+    "Category": "Spice",
+    "Market Price": "800 Silver",
+    "Weight": "0.01 LT",
+    "Source": "Market",
+    "Substitutable": "Yes",
+    "Common Uses": "Grilled Scorpion, King of Jungle Hamburg, Couscous"
+  },
+  {
+    "Ingredient Name": "Noc Ore",
+    "Category": "Ore",
+    "Market Price": "500 Silver",
+    "Weight": "0.30 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Melted Noc Shard",
+    "Location Details": "Produced at Rhutum Outstation (southwest of Calpheon) or Orc Camp (south of Heidel) by sending workers to mining nodes."
+  },
+  {
+    "Ingredient Name": "Olive Oil",
+    "Category": "Reagent",
+    "Market Price": "500 Silver",
+    "Weight": "0.01 LT",
+    "Source": "Market",
+    "Substitutable": "Yes",
+    "Common Uses": "Dressing, Stir-Fried Vegetables, Smoked Fish Steak"
+  },
+  {
+    "Ingredient Name": "Onion",
+    "Category": "Vegetable",
+    "Market Price": "800 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Farm",
+    "Substitutable": "Yes",
+    "Common Uses": "Lizard Kebab, Oatmeal, Pickled Citron and Onions"
+  },
+  {
+    "Ingredient Name": "Oyster",
+    "Category": "Seafood",
+    "Market Price": "1,500 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Pan-Fried Oyster",
+    "Location Details": "Produced at Weita Island (northwest of Velia) or Randis Island (southwest of Iliya Island) by sending workers to gathering nodes."
+  },
+  {
+    "Ingredient Name": "Palm Timber",
+    "Category": "Timber",
+    "Market Price": "700 Silver",
+    "Weight": "0.50 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Palm Plank, Artisan's Timber Box",
+    "Location Details": "Produced at Areha Palm Forest (south of Arehaza, Valencia) or Shakatu Farmland (east of Shakatu, Valencia) by sending workers to lumbering nodes."
+  },
+  {
+    "Ingredient Name": "Pepper",
+    "Category": "Spice",
+    "Market Price": "800 Silver",
+    "Weight": "0.01 LT",
+    "Source": "Farm",
+    "Substitutable": "Yes",
+    "Common Uses": "Chowder, Grilled Sausage, Meat Soup"
+  },
+  {
+    "Ingredient Name": "Pork",
+    "Category": "Meat",
+    "Market Price": "1,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Farm",
+    "Substitutable": "Yes",
+    "Common Uses": "Chowder"
+  },
+  {
+    "Ingredient Name": "Prawn",
+    "Category": "Seafood",
+    "Market Price": "1,500 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Prawn Salad, Steamed Prawn",
+    "Location Details": "Produced at Weita Island (northwest of Velia) or Randis Island (southwest of Iliya Island) by sending workers to gathering nodes."
+  },
+  {
+    "Ingredient Name": "Pine Timber",
+    "Category": "Timber",
+    "Market Price": "500 Silver",
+    "Weight": "0.50 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Pine Plank, Skilled Processor's Timber Box",
+    "Location Details": "Produced at Serendia Shrine (southwest of Heidel) or Marie Cave (south of Heidel) by sending workers to lumbering nodes."
+  },
+  {
+    "Ingredient Name": "Pistachio",
+    "Category": "Nut",
+    "Market Price": "1,200 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Farm",
+    "Substitutable": "Yes",
+    "Common Uses": "Pistachio Fried Rice"
+  },
+  {
+    "Ingredient Name": "Pig Hide",
+    "Category": "Hide",
+    "Market Price": "1,500 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Farm",
+    "Substitutable": "Yes",
+    "Common Uses": "Leather Glaze"
+  },
+  {
+    "Ingredient Name": "Pine Sap",
+    "Category": "Reagent",
+    "Market Price": "500 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Elixir of Wings, Elixir of Wind",
+    "Location Details": "Produced at Marie Cave (south of Heidel) or Serendia Shrine (southwest of Heidel) by sending workers to lumbering nodes."
+  },
+  {
+    "Ingredient Name": "Plant",
+    "Category": "Vegetable",
+    "Market Price": "800 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Tea With Fine Scent",
+    "Location Details": "Gathered using bare hands or a hoe at Balenos Forest (east of Velia) or Quint Hill (north of Calpheon)."
+  },
+  {
+    "Ingredient Name": "Platinum Ore",
+    "Category": "Ore",
+    "Market Price": "1,000 Silver",
+    "Weight": "0.30 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Melted Platinum Shard, Guru's Metal Box",
+    "Location Details": "Produced at Roud Sulfur Mine (northwest of Valencia City) or Basilisk Den (west of Valencia City) by sending workers to mining nodes."
+  },
+  {
+    "Ingredient Name": "Powder of Flame",
+    "Category": "Reagent",
+    "Market Price": "500 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Market",
+    "Substitutable": "Yes",
+    "Common Uses": "Elixir of Death, Elixir of Fury, Whale Tendon Elixir"
+  },
+  {
+    "Ingredient Name": "Powder of Darkness",
+    "Category": "Reagent",
+    "Market Price": "500 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Market",
+    "Substitutable": "Yes",
+    "Common Uses": "Elixir of Frenzy, Elixir of Detection, Leather Glaze"
+  },
+  {
+    "Ingredient Name": "Powder of Time",
+    "Category": "Reagent",
+    "Market Price": "500 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Market",
+    "Substitutable": "Yes",
+    "Common Uses": "Elixir of Time, Elixir of Deep Sea, Perfume of Swiftness"
+  },
+  {
+    "Ingredient Name": "Powder of Earth",
+    "Category": "Reagent",
+    "Market Price": "500 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Market",
+    "Substitutable": "Yes",
+    "Common Uses": "Elixir of Skill"
+  },
+  {
+    "Ingredient Name": "Purified Water",
+    "Category": "Reagent",
+    "Market Price": "500 Silver",
+    "Weight": "0.01 LT",
+    "Source": "Market",
+    "Substitutable": "Yes",
+    "Common Uses": "Whale Tendon Potion, Clear Liquid Reagent, Well-brewed Mesima Tea"
+  },
+  {
+    "Ingredient Name": "Radish",
+    "Category": "Vegetable",
+    "Market Price": "800 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Farm",
+    "Substitutable": "Yes",
+    "Common Uses": "White Kimchi, Dongchimi, Moodle Gukbap"
+  },
+  {
+    "Ingredient Name": "Red Bean",
+    "Category": "Grain",
+    "Market Price": "1,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Farm",
+    "Substitutable": "Yes",
+    "Common Uses": "Red Bean Porridge, Red Bean Sirutteok"
+  },
+  {
+    "Ingredient Name": "Red Pepper Powder",
+    "Category": "Spice",
+    "Market Price": "800 Silver",
+    "Weight": "0.01 LT",
+    "Source": "Market",
+    "Substitutable": "Yes",
+    "Common Uses": "Moodle Gukbap, Dalbeol Gukbap"
+  },
+  {
+    "Ingredient Name": "Reptile Meat",
+    "Category": "Meat",
+    "Market Price": "1,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Lizard Kebab, Desert Dumpling",
+    "Location Details": "Obtained by hunting lizards in Glish Swamp (south of Glish) or Valencia’s Basilisk Den (west of Valencia City) using a fluid collector."
+  },
+  {
+    "Ingredient Name": "Rhino Hide",
+    "Category": "Hide",
+    "Market Price": "1,500 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Hard Hide, Master's Hide Box",
+    "Location Details": "Obtained by hunting rhinos in Valencia’s Basilisk Den (west of Valencia City) or Roud Sulfur Mine (northwest of Valencia City) using a fluid collector."
+  },
+  {
+    "Ingredient Name": "Rice",
+    "Category": "Grain",
+    "Market Price": "1,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Farm",
+    "Substitutable": "Yes",
+    "Common Uses": "Makgeolli, Cooked Rice, Pistachio Fried Rice"
+  },
+  {
+    "Ingredient Name": "Rice Flour",
+    "Category": "Grain",
+    "Market Price": "1,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Market",
+    "Substitutable": "Yes",
+    "Common Uses": "Garaetteok, Red Bean Sirutteok"
+  },
+  {
+    "Ingredient Name": "Rough Stone",
+    "Category": "Ore",
+    "Market Price": "500 Silver",
+    "Weight": "0.30 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Polished Stone, Metal Solvent, Marking Reagent",
+    "Location Details": "Produced at Coastal Cave (west of Velia) or Keplan Quarry (southeast of Keplan) by sending workers to mining nodes."
+  },
+  {
+    "Ingredient Name": "Rough Opal",
+    "Category": "Gem",
+    "Market Price": "1,000 Silver",
+    "Weight": "0.30 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Polished Opal",
+    "Location Details": "Produced at Capotia (south of Altinova) or Ancado Coast (northwest of Valencia City) by sending workers to mining nodes."
+  },
+  {
+    "Ingredient Name": "Rough Obsidian",
+    "Category": "Gem",
+    "Market Price": "1,000 Silver",
+    "Weight": "0.30 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Obsidian Ore",
+    "Location Details": "Produced at Capotia (south of Altinova) or Ancado Coast (northwest of Valencia City) by sending workers to mining nodes."
+  },
+  {
+    "Ingredient Name": "Salt",
+    "Category": "Reagent",
+    "Market Price": "500 Silver",
+    "Weight": "0.01 LT",
+    "Source": "Market",
+    "Substitutable": "Yes",
+    "Common Uses": "Clear Liquid Reagent, Grain Soup, Steak"
+  },
+  {
+    "Ingredient Name": "Scorpion Meat",
+    "Category": "Meat",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Grilled Scorpion",
+    "Location Details": "Obtained by hunting scorpions in Valencia’s Crescent Shrine (east of Valencia City) or Sand Grain Bazaar (south of Valencia City) using a fluid collector."
+  },
+  {
+    "Ingredient Name": "Seafood",
+    "Category": "Seafood",
+    "Market Price": "1,500 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Steamed Seafood, Seafood Pasta, Seafood Grilled with Butter",
+    "Location Details": "Produced at Weita Island (northwest of Velia) or Randis Island (southwest of Iliya Island) by sending workers to gathering nodes."
+  },
+  {
+    "Ingredient Name": "Shellfish",
+    "Category": "Seafood",
+    "Market Price": "1,500 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Hard-Boiled Shellfish",
+    "Location Details": "Produced at Weita Island (northwest of Velia) or Randis Island (southwest of Iliya Island) by sending workers to gathering nodes."
+  },
+  {
+    "Ingredient Name": "Sheep Hide",
+    "Category": "Hide",
+    "Market Price": "1,500 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Light Hide, Artisan's Hide Box",
+    "Location Details": "Obtained by hunting sheep in Lynch Ranch (southwest of Heidel) or Behr (south of Calpheon) using a fluid collector."
+  },
+  {
+    "Ingredient Name": "Silver Ore",
+    "Category": "Ore",
+    "Market Price": "1,000 Silver",
+    "Weight": "0.30 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Melted Silver Shard, Master's Metal Box",
+    "Location Details": "Produced at Omar Lava Cave (south of Altinova) or Abandoned Iron Mine (north of Altinova) by sending workers to mining nodes."
+  },
+  {
+    "Ingredient Name": "Silver Apricot",
+    "Category": "Fruit",
+    "Market Price": "1,200 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Farm",
+    "Substitutable": "Yes",
+    "Common Uses": "Roasted Silver Apricot"
+  },
+  {
+    "Ingredient Name": "Silver Azalea",
+    "Category": "Herb",
+    "Market Price": "800 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Elixir of Life, Elixir of Wings, Pure Powder Reagent",
+    "Location Details": "Gathered using bare hands or a hoe at Quint Hill (north of Calpheon) or Behr (south of Calpheon)."
+  },
+  {
+    "Ingredient Name": "Sky Mushroom",
+    "Category": "Mushroom",
+    "Market Price": "1,200 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Elixir of Sky",
+    "Location Details": "Gathered using bare hands or a hoe at Polly’s Forest (north of Grána) or Manshaum Forest (north of Grána)."
+  },
+  {
+    "Ingredient Name": "Snake Meat",
+    "Category": "Meat",
+    "Market Price": "1,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Freekeh Snake Stew",
+    "Location Details": "Obtained by hunting snakes in Valencia’s Crescent Shrine (east of Valencia City) or Glish Swamp (south of Glish) using a fluid collector."
+  },
+  {
+    "Ingredient Name": "Soybean",
+    "Category": "Grain",
+    "Market Price": "1,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Farm",
+    "Substitutable": "Yes",
+    "Common Uses": "Soybean Jjigae"
+  },
+  {
+    "Ingredient Name": "Special Carrot",
+    "Category": "Vegetable",
+    "Market Price": "1,500 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Farm",
+    "Substitutable": "No",
+    "Common Uses": "Special Carrot Juice"
+  },
+  {
+    "Ingredient Name": "Spirit's Leaf",
+    "Category": "Reagent",
+    "Market Price": "800 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Elixir of Frenzy, Elixir of Draining"
+  },
+  {
+    "Ingredient Name": "Star Anise",
+    "Category": "Spice",
+    "Market Price": "800 Silver",
+    "Weight": "0.01 LT",
+    "Source": "Market",
+    "Substitutable": "Yes",
+    "Common Uses": "Freekeh Snake Stew"
+  },
+  {
+    "Ingredient Name": "Sugar",
+    "Category": "Reagent",
+    "Market Price": "500 Silver",
+    "Weight": "0.01 LT",
+    "Source": "Market",
+    "Substitutable": "Yes",
+    "Common Uses": "Pure Powder Reagent, Fruit Juice, Highly Concentrated Grain Juice"
+  },
+  {
+    "Ingredient Name": "Sunrise Herb",
+    "Category": "Herb",
+    "Market Price": "800 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Resurrection Elixir, Clear Liquid Reagent, Herbal Poison"
+  },
+  {
+    "Ingredient Name": "Teff Flour",
+    "Category": "Grain",
+    "Market Price": "1,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Farm",
+    "Substitutable": "Yes",
+    "Common Uses": "Teff Bread"
+  },
+  {
+    "Ingredient Name": "Titanium Ore",
+    "Category": "Ore",
+    "Market Price": "500 Silver",
+    "Weight": "0.30 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Melted Titanium Shard, Artisan's Metal Box",
+    "Location Details": "Produced at Roud Sulfur Mine (northwest of Valencia City) or Abandoned Iron Mine (north of Altinova) by sending workers to mining nodes."
+  },
+  {
+    "Ingredient Name": "Trace of Origin",
+    "Category": "Reagent",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Market",
+    "Substitutable": "Yes",
+    "Common Uses": "Resurrection Elixir, Gem Polisher"
+  },
+  {
+    "Ingredient Name": "Trace of Violence",
+    "Category": "Reagent",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Market",
+    "Substitutable": "Yes",
+    "Common Uses": "Elixir of Human Hunt, Elixir of Demihuman Hunt, Tyrant's Blood"
+  },
+  {
+    "Ingredient Name": "Trace of Savagery",
+    "Category": "Reagent",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Market",
+    "Substitutable": "Yes",
+    "Common Uses": "Elixir of Draining, Elixir of Perforation, Metal Solvent"
+  },
+  {
+    "Ingredient Name": "Trace of Ascension",
+    "Category": "Reagent",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Market",
+    "Substitutable": "Yes",
+    "Common Uses": "Golden Hand Elixir, Elixir of Spells, Weenie Elixir"
+  },
+  {
+    "Ingredient Name": "Trace of Death",
+    "Category": "Reagent",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Market",
+    "Substitutable": "Yes",
+    "Common Uses": "Elixir of Death, Grim Reaper's Elixir, Khalk's Elixir"
+  },
+  {
+    "Ingredient Name": "Trace of the Earth",
+    "Category": "Reagent",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Market",
+    "Substitutable": "Yes",
+    "Common Uses": "Elixir of Sky, Elixir of Time, Fisher's Elixir"
+  },
+  {
+    "Ingredient Name": "Trace of Forest",
+    "Category": "Reagent",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Market",
+    "Substitutable": "Yes",
+    "Common Uses": "Elixir of Endurance, Essence of Nature, Elixir of Persistence"
+  },
+  {
+    "Ingredient Name": "Trace of Battle",
+    "Category": "Reagent",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Market",
+    "Substitutable": "Yes",
+    "Common Uses": "Elixir of Resistance, EXP Elixir, Marking Reagent"
+  },
+  {
+    "Ingredient Name": "Vanadium Ore",
+    "Category": "Ore",
+    "Market Price": "500 Silver",
+    "Weight": "0.30 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "Melted Vanadium Shard, Artisan's Metal Box",
+    "Location Details": "Produced at Roud Sulfur Mine (northwest of Valencia City) or Abandoned Iron Mine (north of Altinova) by sending workers to mining nodes."
+  },
+  {
+    "Ingredient Name": "Vegetable",
+    "Category": "Vegetable",
+    "Market Price": "800 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Farm",
+    "Substitutable": "Yes",
+    "Common Uses": "Stir-Fried Vegetables, Pickled Vegetables, Fruit and Vegetable Salad"
+  },
+  {
+    "Ingredient Name": "Vinegar",
+    "Category": "Reagent",
+    "Market Price": "500 Silver",
+    "Weight": "0.01 LT",
+    "Source": "Market",
+    "Substitutable": "Yes",
+    "Common Uses": "Vinegar, Fruit and Vegetable Salad, Citron Vinegar"
+  },
+  {
+    "Ingredient Name": "Vell's Heart",
+    "Category": "Reagent",
+    "Market Price": "100,000,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "No",
+    "Common Uses": "Vell's Fine Powder"
+  },
+  {
+    "Ingredient Name": "Weeds",
+    "Category": "Herb",
+    "Market Price": "500 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Weenie Elixir",
+    "Location Details": "Gathered using bare hands or a hoe from any wild herbs, such as those at Balenos Forest (east of Velia) or Quint Hill (north of Calpheon)."
+  },
+  {
+    "Ingredient Name": "Whale Meat",
+    "Category": "Meat",
+    "Market Price": "500,000 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Steamed Whale Meat, Whale Meat Salad",
+    "Location Details": "Obtained by hunting blue whales in the Margoria Sea (requires a hunting matchlock and a boat, often announced via in-game messages)."
+  },
+  {
+    "Ingredient Name": "White Oak Timber",
+    "Category": "Timber",
+    "Market Price": "700 Silver",
+    "Weight": "0.50 LT",
+    "Source": "Node",
+    "Substitutable": "Yes",
+    "Common Uses": "White Oak Plank, Sturdy White Oak Plywood",
+    "Location Details": "Produced at White Wood Forest (northwest of Grána) or Acher Guard Post (southwest of Grána) by sending workers to lumbering nodes."
+  },
+  {
+    "Ingredient Name": "Wild Grass",
+    "Category": "Herb",
+    "Market Price": "500 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Elixir of Wind, Clear Liquid Reagent, Looney Elixir",
+    "Location Details": "Gathered using bare hands or a hoe from any wild herbs, such as those at Balenos Forest (east of Velia) or Quint Hill (north of Calpheon)."
+  },
+  {
+    "Ingredient Name": "Wolf Hide",
+    "Category": "Hide",
+    "Market Price": "1,500 Silver",
+    "Weight": "0.10 LT",
+    "Source": "Wild",
+    "Substitutable": "Yes",
+    "Common Uses": "Thick Fur, Master's Hide Box",
+    "Location Details": "Obtained by hunting wolves in Balenos Forest (east of Velia) or Drieghan’s Khalk Canyon (northwest of Duvencrune) using a fluid collector."
+  }
+]

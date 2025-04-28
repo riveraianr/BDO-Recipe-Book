@@ -1,0 +1,1522 @@
+[
+  {
+    "Recipe Name": "Chowder",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Dried Pearl Oyster Flesh x1, Pepper x2, Pork x2, Milk x1, Teff Bread x1",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Recovers Sailor Condition +100",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "White Sauce",
+    "Skill Level": "Beginner Lv.1",
+    "Ingredients": "Fruit x1, Base Sauce x1, Milk x1, Cooking Wine x2",
+    "Market Price": "2,500 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used as a cooking ingredient",
+    "Experience": "100-200 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Red Sauce",
+    "Skill Level": "Beginner Lv.1",
+    "Ingredients": "Meat x1, Base Sauce x1, Hot Pepper x2, Sugar x1",
+    "Market Price": "2,500 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used as a cooking ingredient",
+    "Experience": "100-200 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Dressing",
+    "Skill Level": "Beginner Lv.1",
+    "Ingredients": "Mineral Water x1, Olive Oil x1, Egg x1, Salt x2",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used as a cooking ingredient",
+    "Experience": "100-200 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Essence of Liquor",
+    "Skill Level": "Beginner Lv.1",
+    "Ingredients": "Flour x1, Fruit x1, Leavening Agent x1",
+    "Market Price": "1,500 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used as a cooking ingredient",
+    "Experience": "100-200 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Vinegar",
+    "Skill Level": "Beginner Lv.1",
+    "Ingredients": "Grain x1, Fruit x1, Leavening Agent x1, Sugar x1",
+    "Market Price": "1,200 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used as a cooking ingredient",
+    "Experience": "100-200 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Fruit Wine",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Fruit x5, Essence of Liquor x2, Mineral Water x3, Sugar x2",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Fishing Speed +1 for 30 min",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,000,000"
+  },
+  {
+    "Recipe Name": "Pickled Vegetables",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Vegetable x8, Vinegar x4, Leavening Agent x2, Sugar x2",
+    "Market Price": "4,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Chance to Gain Knowledge +5%, Higher-Grade Knowledge Chance +2% for 30 min",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,000,000"
+  },
+  {
+    "Recipe Name": "Cheese Gratin",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Grilled Sausage x1, Cheese x5, Vegetable x5, Red Sauce x1, Dough x4",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All Damage Reduction +2 for 90 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Aloe Yogurt",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Aloe x5, Milk x2, Sugar x3, Leavening Agent x2",
+    "Market Price": "8,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Movement Speed +1 for 30 min",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Aloe Cookie",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Aloe x5, Dough x7, Cooking Honey x4, Egg x2",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Movement Speed +1 for 30 min",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Honey Wine",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Cooking Honey x3, Essence of Liquor x2, Mineral Water x6, Sugar x2",
+    "Market Price": "13,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Fishing Speed +1 for 60 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Sute Tea",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Tea With Fine Scent x2, Milk x3, Salt x1, Butter x1",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Max HP +100 for 90 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Fish Fillet Chips",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Fish x2, White Sauce x3, Flour x2, Deep Frying Oil x2",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Movement Speed +1 for 60 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Assorted Side Dishes",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Fried Bird x1, Fish Fillet Chips x1, Pickled Vegetables x1, Beer x1",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Movement Speed +1, Gathering Speed +1 for 60 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "High-quality Carrot Juice",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "High-Quality Carrot x3, Sugar x1, Mineral Water x4, Salt x1",
+    "Market Price": "4,500 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Recovers Horse HP +2100 (Instant)",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,000,000"
+  },
+  {
+    "Recipe Name": "Special Carrot Juice",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Special Carrot x3, Sugar x1, Mineral Water x4, Salt x1",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Recovers Horse HP +3300 (Instant)",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Beer",
+    "Skill Level": "Beginner Lv.1",
+    "Ingredients": "Grain x5, Mineral Water x6, Leavening Agent x2, Sugar x1",
+    "Market Price": "1,300 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +2",
+    "Experience": "100-200 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Teff Bread",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Teff Flour x5, Mineral Water x3, Leavening Agent x2, Salt x2",
+    "Market Price": "6,500 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Cooking/Alchemy Time -0.3 sec for 30 min",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,000,000"
+  },
+  {
+    "Recipe Name": "Freekeh Snake Stew",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Snake Meat x3, Freekeh x6, Mineral Water x5, Star Anise x2",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +5",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Fig Pie",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Fig x5, Dough x3, Sugar x3, Olive Oil x2",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Gathering Speed +1 for 60 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Pistachio Fried Rice",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Pistachio x4, Rice x5, Cinnamon x2, Salt x2",
+    "Market Price": "7,500 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Movement Speed +1 for 60 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Teff Sandwich",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Teff Bread x1, Freekeh Snake Stew x1, Grilled Sausage x1, Red Sauce x1",
+    "Market Price": "20,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Max HP +100, HP Recovery +5 for 90 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Date Palm Wine",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Date Palm x5, Essence of Liquor x2, Leavening Agent x2, Sugar x2",
+    "Market Price": "12,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Fishing Speed +1 for 60 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Couscous",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Freekeh Snake Stew x1, Teff Bread x2, Nutmeg x2, Date Palm x2",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +5",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Stir-Fried Vegetables",
+    "Skill Level": "Beginner Lv.1",
+    "Ingredients": "Vegetable x4, Garlic x2, Hot Pepper x2, Olive Oil x2",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Movement Speed +1 for 30 min",
+    "Experience": "100-200 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Grain Soup",
+    "Skill Level": "Beginner Lv.1",
+    "Ingredients": "Grain x6, Cooking Wine x3, Mineral Water x3, Salt x1",
+    "Market Price": "1,750 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +2",
+    "Experience": "100-200 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Fried Vegetables",
+    "Skill Level": "Beginner Lv.1",
+    "Ingredients": "Vegetable x4, Frying Oil x2, Egg x2, Dough x3",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Movement Speed +1 for 30 min",
+    "Experience": "100-200 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Fruit Juice",
+    "Skill Level": "Beginner Lv.1",
+    "Ingredients": "Fruit x4, Sugar x1, Mineral Water x5, Salt x1",
+    "Market Price": "1,200 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Recovers Horse MP +1250 (Instant)",
+    "Experience": "100-200 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Fruit and Vegetable Salad",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Fruit x4, Vegetable x4, Vinegar x2, Dressing x1",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Chance to Gain Knowledge +5%, Higher-Grade Knowledge Chance +2% for 30 min",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,000,000"
+  },
+  {
+    "Recipe Name": "Fruit Pudding",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Fruit x5, Milk x2, Sugar x3, Cream x1",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Gathering Speed +1 for 30 min",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Soft Bread",
+    "Skill Level": "Beginner Lv.1",
+    "Ingredients": "Dough x6, Egg x2, Leavening Agent x2, Milk x2",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Max HP +50 for 30 min",
+    "Experience": "100-200 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Oatmeal",
+    "Skill Level": "Beginner Lv.1",
+    "Ingredients": "Flour x9, Milk x3, Onion x3, Cooking Honey x2",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +3",
+    "Experience": "100-200 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Makgeolli",
+    "Skill Level": "Beginner Lv.1",
+    "Ingredients": "Rice x5, Mineral Water x6, Leavening Agent x2, Sugar x1",
+    "Market Price": "5,300 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +2",
+    "Experience": "100-200 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Milk Tea",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Tea With Fine Scent x2, Milk x3, Cooking Honey x2, Flour x3",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Combat EXP +8% for 90 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Fruit Pie",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Fruit x4, Dough x6, Cream x2, Sugar x4",
+    "Market Price": "14,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Gathering Speed +1 for 60 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Meat Pie",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Meat x4, Dough x4, Olive Oil x2, Pepper x2",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +5",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Honeycomb Cookie",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Cooking Honey x4, Dough x6, Egg x4, Milk x4",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Gathering Speed +2 for 90 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Ham Sandwich",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Soft Bread x2, Grilled Sausage x2, Vegetable x5, Egg x4",
+    "Market Price": "20,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Max HP +100, HP Recovery +5 for 90 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Cheese Pie",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Cheese x4, Dough x4, Egg x2, Red Sauce x1",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Gathering Speed +1 for 60 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Omelet",
+    "Skill Level": "Beginner Lv.1",
+    "Ingredients": "Egg x5, Grain x5, Olive Oil x2, Salt x2",
+    "Market Price": "3,500 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Gathering Speed +1 for 30 min",
+    "Experience": "100-200 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Tea With Fine Scent",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Plant x4, Fruit x4, Milk x3, Cooking Honey x3",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Max HP +100 for 60 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Coconut Cocktail",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Coconut x2, Exotic Herbal Wine x1, Essence of Liquor x1, Fruit x2, Mineral Water x5",
+    "Market Price": "3,500 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Fishing Speed +1 for 90 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Coconut Pasta",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Coconut x2, Dough x5, Garlic x2, White Sauce x1",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +5",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Coconut Fried Fish",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Coconut x2, Fish x2, Egg x2, Frying Oil x2",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Movement Speed +1 for 90 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Rainbow Button Mushroom Sandwich",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Rainbow Button Mushroom x1, Soft Bread x1, Cream x1, Cheese x2",
+    "Market Price": "20,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Max HP +100, HP Recovery +5 for 90 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Stir-Fried Bracken",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Bracken x5, Garlic x3, Mineral Water x3, Salt x2",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +3",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,000,000"
+  },
+  {
+    "Recipe Name": "Carrot Confit",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Carrot x4, Olive Oil x3, Sugar x2, Salt x2",
+    "Market Price": "63,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Recovers Horse HP +5500 (Instant)",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Delotia Tart",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Delotia x5, Dough x7, Egg x3, Milk x2",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Gathering Speed +2 for 90 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Delotia Pudding",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Delotia x5, Milk x3, Sugar x2, Cooking Honey x2",
+    "Market Price": "20,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +5",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Delotia Juice",
+    "Skill Level": "Beginner Lv.1",
+    "Ingredients": "Delotia x5, Sugar x3, Mineral Water x3",
+    "Market Price": "2,500 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Recovers Horse MP +3000 (Instant)",
+    "Experience": "100-200 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Delotia Milk Tea",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Delotia x3, Tea With Fine Scent x2, Milk x3, Cooking Honey x2",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Combat EXP +8% for 90 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Stir-Fried Bird",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Bird Meat x5, Garlic x3, Mineral Water x3, Salt x2",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +3",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,000,000"
+  },
+  {
+    "Recipe Name": "Stir-Fried Bracken and Meat",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Bracken x5, Meat x5, Garlic x3, Hot Pepper x2",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Movement Speed +1 for 60 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Chicken Breast Salad",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Chicken Meat x5, Vinegar x2, Fruit x3, Dressing x1",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Gathering Speed +1 for 30 min",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,000,000"
+  },
+  {
+    "Recipe Name": "Frank Sandwich",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Soft Bread x2, Grilled Sausage x2, Vegetable x5, Egg x4",
+    "Market Price": "20,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Max HP +100, HP Recovery +5 for 90 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Chanterelle Stew",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Chanterelle x3, Garlic x2, Mineral Water x5, Salt x2",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +3",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,000,000"
+  },
+  {
+    "Recipe Name": "Chanterelle and Potato Stew",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Chanterelle x2, Potato x3, Mineral Water x5, Salt x2",
+    "Market Price": "7,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +3",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,000,000"
+  },
+  {
+    "Recipe Name": "Stir-Fried Chanterelle and Meat",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Chanterelle x3, Meat x5, Hot Pepper x2, Garlic x2",
+    "Market Price": "20,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Movement Speed +1 for 60 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Chanterelle Porridge",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Chanterelle x5, Grain x5, Mineral Water x3, Salt x2",
+    "Market Price": "50,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +5",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Chanterelle Risotto",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Chanterelle x5, Rice x4, White Sauce x1, Garlic x2",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Max HP +100 for 90 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Citron Cider",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Citron x5, Essence of Liquor x2, Leavening Agent x2, Sugar x2",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Fishing Speed +1 for 30 min",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,000,000"
+  },
+  {
+    "Recipe Name": "Citron Vinegar",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Citron x5, Vinegar x2, Leavening Agent x2, Sugar x2",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Chance to Gain Knowledge +5%, Higher-Grade Knowledge Chance +2% for 60 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Citron Juice",
+    "Skill Level": "Beginner Lv.1",
+    "Ingredients": "Citron x5, Sugar x3, Mineral Water x3",
+    "Market Price": "2,500 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Recovers Horse MP +3000 (Instant)",
+    "Experience": "100-200 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Balacs Lunchbox",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Eilton Sandwich x1, Mesima Chicken Soup x1, White Kimchi x1",
+    "Market Price": "20,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Fishing EXP +10%, Auto-fishing Time -7%, Fishing Speed +2 for 90 min",
+    "Experience": "500-700 XP",
+    "Silver/Hour": "3,500,000"
+  },
+  {
+    "Recipe Name": "Special Eilton Specialty Meal",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Serendia Meal x1, Milk Tea x3, Skewered Llama Cheese Melt x1, Fruit Sherbet x2",
+    "Market Price": "300,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +5, All Accuracy +10, Critical Hit +1 for 110 min",
+    "Experience": "500-700 XP",
+    "Silver/Hour": "5,000,000"
+  },
+  {
+    "Recipe Name": "Pickled Citron and Onions",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Citron x4, Onion x4, Vinegar x2, Sugar x2",
+    "Market Price": "6,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Chance to Gain Knowledge +5%, Higher-Grade Knowledge Chance +2% for 60 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Single-brewed Mesima Tea",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Mesima x3, Mineral Water x4, Cooking Honey x2",
+    "Market Price": "7,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Max HP +100 for 60 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Twice-brewed Mesima Tea",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Mesima x5, Mineral Water x6, Cooking Honey x3",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Max HP +100 for 90 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Well-brewed Mesima Tea",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Mesima x5, Purified Water x7, Sugar x2, Salt x2",
+    "Market Price": "8,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +5",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Mesima Rice Wine",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Mesima x2, Rice x5, Mineral Water x6, Leavening Agent x2",
+    "Market Price": "3,500 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Fishing Speed +1 for 90 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Eilton Sandwich",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Soft Bread x1, Fried Bird x1, Chanterelle x2, Red Sauce x2",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Processing EXP +8%, Processing Success Rate +5% for 90 min",
+    "Experience": "500-700 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Mesima Chicken Soup",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Mesima x3, Chicken Meat x2, Mineral Water x5, Garlic x2",
+    "Market Price": "8,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +5",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Fruit Sherbet",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Fruit x5, Milk x3, Sugar x2, Mineral Water x6",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Gathering Speed +2 for 90 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Citron Candy",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Citron x3, Sugar x2, Cooking Honey x2",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Recovers Horse MP +1500 (Instant)",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,000,000"
+  },
+  {
+    "Recipe Name": "Steak",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Meat x8, Red Sauce x2, Garlic x2, Salt x2",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +3 for 30 min",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,000,000"
+  },
+  {
+    "Recipe Name": "Boiled Bird Eggs",
+    "Skill Level": "Beginner Lv.1",
+    "Ingredients": "Egg x3, Mineral Water x6, Cooking Wine x1, Salt x1",
+    "Market Price": "20,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +2",
+    "Experience": "100-200 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Fried Bird",
+    "Skill Level": "Beginner Lv.1",
+    "Ingredients": "Bird Meat x2, Frying Oil x2, Egg x2, Flour x2",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Movement Speed +1 for 30 min",
+    "Experience": "100-200 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Meat Croquette",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Meat x8, Flour x5, Egg x2, Cheese x2, Frying Oil x2",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +5",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Steamed Bird",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Bird Meat x5, Vegetable x3, Vinegar x2, Salt x2",
+    "Market Price": "35,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Movement Speed +1 for 60 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Lizard Kebab",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Reptile Meat x6, Red Sauce x2, Onion x3, Garlic x2",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +5",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Fried Fish",
+    "Skill Level": "Beginner Lv.1",
+    "Ingredients": "Fish x1, Flour x2, Frying Oil x2",
+    "Market Price": "2,500 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +2",
+    "Experience": "100-200 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Borscht",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Meat x7, Milk x3, Cinnamon x2, Mineral Water x5",
+    "Market Price": "30,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All Damage Reduction +2 for 60 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Steamed Fish",
+    "Skill Level": "Beginner Lv.1",
+    "Ingredients": "Fish x2, Garlic x2, Mineral Water x3, Salt x2",
+    "Market Price": "25,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Movement Speed +1 for 30 min",
+    "Experience": "100-200 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Desert Dumpling",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Reptile Meat x6, Dough x6, Cinnamon x2, Olive Oil x2",
+    "Market Price": "50,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +5",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Steamed Seafood",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Seafood x2, Hot Pepper x2, Mineral Water x5, Garlic x2",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Movement Speed +1 for 60 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Pickled Fish",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Fish x2, Vinegar x2, Leavening Agent x2, Sugar x2",
+    "Market Price": "3,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +5",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Seafood Pasta",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Seafood x2, Dough x5, Garlic x2, Olive Oil x2",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +5",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Meat Stew",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Meat x5, Flour x2, Cooking Wine x2, Mineral Water x3",
+    "Market Price": "8,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +5",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Meat Sandwich",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Soft Bread x1, Meat x6, Vegetable x5, Egg x4",
+    "Market Price": "30,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Max HP +100, HP Recovery +5 for 90 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Meat Pasta",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Meat x5, Dough x5, Garlic x2, Pepper x2",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +5",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Smoked Fish Steak",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Fish x2, Salt x2, Olive Oil x2",
+    "Market Price": "20,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +3",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,000,000"
+  },
+  {
+    "Recipe Name": "Fish Soup",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Fish x1, Flour x3, Cream x2, Mineral Water x3",
+    "Market Price": "7,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +5",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Seafood Mushroom Salad",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Seafood x2, Mushroom x2, Dressing x1, Garlic x2",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Movement Speed +1 for 60 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Stir-Fried Seafood",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Seafood x2, Hot Pepper x2, Olive Oil x2, Garlic x2",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All Damage Reduction +2 for 90 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Seafood Grilled with Butter",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Seafood x2, Butter x3, Garlic x2, Salt x2",
+    "Market Price": "30,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Fishing Speed +2 for 90 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Dark Pudding",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Oatmeal x1, Pickled Vegetables x1, Bird Meat x7, Blood Group 4 x5",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +3 for 90 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Fish Fillet Salad",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Fish x2, Dressing x2, Onion x2, Garlic x2",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Movement Speed +1 for 60 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Meat Soup",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Meat x5, Pepper x2, Cream x2, Mineral Water x3",
+    "Market Price": "7,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +5",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Lean Meat Salad",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Meat x8, Vinegar x2, Pepper x2, Dressing x2",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All Damage Reduction +2 for 90 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Stir-Fried Meat",
+    "Skill Level": "Beginner Lv.1",
+    "Ingredients": "Meat x4, Hot Pepper x2, Garlic x2, Olive Oil x2",
+    "Market Price": "4,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +3 for 30 min",
+    "Experience": "100-200 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Grilled Sausage",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Meat x6, Onion x1, Pepper x2, Salt x2",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +3",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,000,000"
+  },
+  {
+    "Recipe Name": "Steamed Whale Meat",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Whale Meat x1, Honey Wine x2, Garlic x2, Mineral Water x4",
+    "Market Price": "700,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All Damage Reduction +2 for 90 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "5,000,000"
+  },
+  {
+    "Recipe Name": "Whale Meat Salad",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Whale Meat x1, Dressing x2, Egg x2, Pepper x2",
+    "Market Price": "500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Max HP +100 for 90 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "4,000,000"
+  },
+  {
+    "Recipe Name": "Hunter's Salad",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Vinegar x2, Dressing x2, Cooking Honey x2, Garlic x2",
+    "Market Price": "18,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +5",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Grilled Scorpion",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Scorpion Meat x5, Butter x3, Nutmeg x2, Hot Pepper x2",
+    "Market Price": "2,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +8, All Accuracy +15 for 90 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "6,000,000"
+  },
+  {
+    "Recipe Name": "King of Jungle Hamburg",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Lion Meat x4, Teff Bread x1, Pickled Vegetables x2, Nutmeg x3",
+    "Market Price": "2,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +8, All Accuracy +15, Max HP +150 for 110 min",
+    "Experience": "800-1000 XP",
+    "Silver/Hour": "8,000,000"
+  },
+  {
+    "Recipe Name": "Khalk's Fermented Wine",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Khalk's Wing x1, Date Palm x10, Essence of Liquor x5, Leavening Agent x5",
+    "Market Price": "3,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All Damage Reduction +5 for 110 min",
+    "Experience": "800-1000 XP",
+    "Silver/Hour": "10,000,000"
+  },
+  {
+    "Recipe Name": "Prawn Salad",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Prawn x2, Olive Oil x2, Egg x2, Vinegar x2",
+    "Market Price": "300,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All Damage Reduction +2 for 90 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Steamed Prawn",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Prawn x2, Mineral Water x5, Hot Pepper x2, Salt x2",
+    "Market Price": "2,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +8, All Accuracy +15 for 90 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "6,000,000"
+  },
+  {
+    "Recipe Name": "Pan-Fried Oyster",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Oyster x2, Egg x2, Flour x2, Frying Oil x2",
+    "Market Price": "7,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Movement Speed +1 for 60 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "1,500,000"
+  },
+  {
+    "Recipe Name": "Butter-roasted Lobster",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Lobster x1, Butter x4, Salt x5, Olive Oil x5",
+    "Market Price": "273,257 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Critical Hit +2, Knockdown/Bound Resistance +10% for 90 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "4,000,000"
+  },
+  {
+    "Recipe Name": "Hard-Boiled Shellfish",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Shellfish x2, Mineral Water x5, Garlic x2, Salt x2",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Movement Speed +1 for 60 min",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Rainbow Button Mushroom Cheese Melt",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Rainbow Button Mushroom x5, Cheese x4, Hot Pepper x3, Dough x6",
+    "Market Price": "90,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +7",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "3,500,000"
+  },
+  {
+    "Recipe Name": "Ghormeh Sabzi",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Meat x5, Grain x2, Milk x1, Garlic x5",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Down Attack Damage +5% for 90 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Roast Marmot",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Marmot Meat x5, Hot Pepper x3, Red Sauce x2, Salt x2",
+    "Market Price": "45,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +5",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Skewered Llama Cheese Melt",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Llama Meat x5, Cheese x4, Red Sauce x2, Cooking Wine x2",
+    "Market Price": "35,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +5, All Accuracy +10 for 90 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Grilled Bird Meat",
+    "Skill Level": "Beginner Lv.1",
+    "Ingredients": "Bird Meat x2, Cooking Wine x2, Salt x2, Pepper x2",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +2",
+    "Experience": "100-200 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Five-Grain Chicken Porridge",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Ground Bird Meat x2, Mineral Water x6, Grain x6",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +5",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Savory Steak",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Meat x8, Garlic x4, Salt x2, Red Sauce x2",
+    "Market Price": "9,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +5 for 90 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Balenos Meal",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Cheese Gratin x1, Meat Croquette x1, Smoked Fish Steak x1, Stir-Fried Vegetables x2, Beer x2",
+    "Market Price": "300,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Movement Speed +2, Fishing Speed +2, Gathering Speed +2 for 90 min",
+    "Experience": "500-700 XP",
+    "Silver/Hour": "5,000,000"
+  },
+  {
+    "Recipe Name": "Serendia Meal",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Ham Sandwich x1, Honeycomb Cookie x1, Meat Pie x1, Fish Fillet Salad x1",
+    "Market Price": "150,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +5, All Accuracy +10, Critical Hit +1 for 110 min",
+    "Experience": "500-700 XP",
+    "Silver/Hour": "4,000,000"
+  },
+  {
+    "Recipe Name": "Calpheon Meal",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Soft Bread x2, Milk Tea x1, Fish Fillet Salad x1, Cheese Pie x1, Meat Pasta x1",
+    "Market Price": "300,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +8, All Accuracy +15, Attack Speed +2 for 110 min",
+    "Experience": "500-700 XP",
+    "Silver/Hour": "5,000,000"
+  },
+  {
+    "Recipe Name": "Mediah Meal",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Dark Pudding x1, Oatmeal x2, Grilled Sausage x2, Lean Meat Salad x1",
+    "Market Price": "150,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +5, All Accuracy +10, Critical Hit +1 for 110 min",
+    "Experience": "500-700 XP",
+    "Silver/Hour": "4,000,000"
+  },
+  {
+    "Recipe Name": "Valencia Meal",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Teff Sandwich x1, King of Jungle Hamburg x1, Couscous x1, Fig Pie x2, Date Palm Wine x2",
+    "Market Price": "900,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +8, All Accuracy +15, Critical Hit +2 for 120 min",
+    "Experience": "800-1000 XP",
+    "Silver/Hour": "10,000,000"
+  },
+  {
+    "Recipe Name": "Knight Combat Rations",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Dark Pudding x1, Ham Sandwich x1, Fruit Wine x1, Meat Croquette x1",
+    "Market Price": "500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Combat EXP +10%, HP Recovery +5 for 110 min",
+    "Experience": "500-700 XP",
+    "Silver/Hour": "5,000,000"
+  },
+  {
+    "Recipe Name": "Special Arehaza Meal",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Coconut Cocktail x2, Coconut Pasta x1, Coconut Fried Fish x1, Rainbow Button Mushroom Sandwich x1",
+    "Market Price": "5,000,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Movement Speed +2, Fishing Speed +2, Gathering Speed +2 for 120 min",
+    "Experience": "800-1000 XP",
+    "Silver/Hour": "10,000,000"
+  },
+  {
+    "Recipe Name": "Margoria Seafood Meal",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Prawn Salad x1, Steamed Prawn x1, Pan-Fried Oyster x1, Butter-Roasted Lobster x1",
+    "Market Price": "2,000,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +8, All Accuracy +15, Critical Hit +2 for 120 min",
+    "Experience": "800-1000 XP",
+    "Silver/Hour": "8,000,000"
+  },
+  {
+    "Recipe Name": "Kamasylvia Meal",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Rainbow Button Mushroom Cheese Melt x1, Ghormeh Sabzi x1, Roast Marmot x1, Skewered Llama Cheese Melt x1",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +8, All Accuracy +15, Critical Hit +2 for 120 min",
+    "Experience": "800-1000 XP",
+    "Silver/Hour": "8,000,000"
+  },
+  {
+    "Recipe Name": "Special Drieghanese Meal",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Chanterelle Stew x1, Chanterelle Porridge x1, Chanterelle Risotto x1, Stir-Fried Chanterelle and Meat x1",
+    "Market Price": "6,000,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +8, All Accuracy +15, Critical Hit +2 for 120 min",
+    "Experience": "800-1000 XP",
+    "Silver/Hour": "10,000,000"
+  },
+  {
+    "Recipe Name": "O'dyllita Meal",
+    "Skill Level": "Master Lv.1",
+    "Ingredients": "Delotia Tart x1, Delotia Pudding x1, Delotia Milk Tea x1, Delotia Juice x1",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +8, All Accuracy +15, Critical Hit +2 for 120 min",
+    "Experience": "800-1000 XP",
+    "Silver/Hour": "8,000,000"
+  },
+  {
+    "Recipe Name": "Eilton Meal",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Chanterelle Risotto x1, Chanterelle and Potato Stew x1, Stir-Fried Chanterelle and Meat x1, Fruit Sherbet x2",
+    "Market Price": "137,500 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Processing EXP +10%, Processing Success Rate +10% for 90 min",
+    "Experience": "500-700 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Good Feed",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Meat x6, Fish x1, Grain x4, Frying Oil x3",
+    "Market Price": "25,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Pet Hunger Recovery +40",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,000,000"
+  },
+  {
+    "Recipe Name": "Organic Feed",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Good Feed x2, Fish x2, Meat x2, Grain x4",
+    "Market Price": "35,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Pet Hunger Recovery +80",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "White Kimchi",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Cabbage x4, Radish x2, Salt x3, Mineral Water x3",
+    "Market Price": "4,500 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Breath EXP +10% for 30 min",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,000,000"
+  },
+  {
+    "Recipe Name": "Dongchimi",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Radish x5, Mineral Water x5, Salt x2, Leavening Agent x2",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +5",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Bean Sprout Salad",
+    "Skill Level": "Beginner Lv.1",
+    "Ingredients": "Bean Sprouts x8, Vinegar x2, Hot Pepper x3, Dressing x2",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All Damage Reduction +2 for 30 min",
+    "Experience": "100-200 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Cooked Rice",
+    "Skill Level": "Beginner Lv.1",
+    "Ingredients": "Rice x5, Mineral Water x3",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +2",
+    "Experience": "100-200 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Soybean Jjigae",
+    "Skill Level": "Skilled Lv.1",
+    "Ingredients": "Soybean x5, Meat x3, Hot Pepper x2, Salt x2",
+    "Market Price": "20,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +5",
+    "Experience": "300-400 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Mungbean Jeon",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Mungbean x5, Egg x2, Flour x3, Frying Oil x2",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +1 for 30 min",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,000,000"
+  },
+  {
+    "Recipe Name": "Buckwheat Jelly",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Buckwheat x5, Mineral Water x3, Sugar x2, Salt x2",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Gathering Speed +1 for 90 min",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Red Bean Porridge",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Red Bean x5, Grain x3, Mineral Water x3, Salt x1",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +3",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,000,000"
+  },
+  {
+    "Recipe Name": "Skewer",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Meat x5, Onion x2, Pepper x3, Salt x2",
+    "Market Price": "8,500 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "All AP +3 for 30 min",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,000,000"
+  },
+  {
+    "Recipe Name": "Nurungji",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Cooked Rice x5, Mineral Water x5, Purified Water x2, Salt x2",
+    "Market Price": "6,500 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +5",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Sungnyung",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Nurungji x1, Mineral Water x5, Cooking Wine x2",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +5",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "2,500,000"
+  },
+  {
+    "Recipe Name": "Jujube Tea",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Jujube x3, Mineral Water x6, Sugar x2, Cooking Honey x2",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Max HP +50 for 30 min",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "1,000,000"
+  },
+  {
+    "Recipe Name": "Roasted Silver Apricot",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Silver Apricot x5, Flour x3, Sugar x2, Mineral Water x6",
+    "Market Price": "20,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +5",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Garaetteok",
+    "Skill Level": "Apprentice Lv.1",
+    "Ingredients": "Rice Flour x6, Mineral Water x3",
+    "Market Price": "1,500 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Used as a cooking ingredient",
+    "Experience": "200-300 XP",
+    "Silver/Hour": "500,000"
+  },
+  {
+    "Recipe Name": "Red Bean Sirutteok",
+    "Skill Level": "Professional Lv.1",
+    "Ingredients": "Red Bean x5, Rice Flour x3, Cooking Honey x2, Mineral Water x6",
+    "Market Price": "60,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Worker's Stamina Recovery +5",
+    "Experience": "400-600 XP",
+    "Silver/Hour": "3,000,000"
+  },
+  {
+    "Recipe Name": "Moodle Gukbap",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Cooked Rice x3, Napa Cabbage x2, Radish x2, Beef x1, Red Pepper Powder x1",
+    "Market Price": "12,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Health EXP +1000 (Instant, for Health level 40 or below)",
+    "Experience": "500-700 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Dalbeol Gukbap",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Cooked Rice x3, Goosefoot Leaves x2, Bracken x2, Beef x1, Red Pepper Powder x2",
+    "Market Price": "12,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Strength EXP +1000 (Instant, for Strength level 40 or below)",
+    "Experience": "500-700 XP",
+    "Silver/Hour": "2,000,000"
+  },
+  {
+    "Recipe Name": "Byeot County Gukbap",
+    "Skill Level": "Artisan Lv.1",
+    "Ingredients": "Cooked Rice x3, Napa Cabbage x2, Radish x2, Beef x1, Garlic x2",
+    "Market Price": "12,000 Silver",
+    "Weight": "0.10 LT",
+    "Effect": "Health EXP +1000 (Instant, for Health level 40 or below)",
+    "Experience": "500-700 XP",
+    "Silver/Hour": "2,000,000"
+  }
+]

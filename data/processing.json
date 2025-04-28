@@ -1,0 +1,1379 @@
+[
+  {
+    "Recipe Name": "Highly Concentrated Grain Juice",
+    "Process Type": "Shaking",
+    "Ingredients": "Grain x30, Mineral Water x10, Sugar x5",
+    "Experience": "300-400 XP",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Refined Grain Juice",
+    "Process Type": "Shaking",
+    "Ingredients": "Highly Concentrated Grain Juice x2, Sugar x10, Mineral Water x10",
+    "Experience": "400-600 XP",
+    "Market Price": "20,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Verdure Draught",
+    "Process Type": "Shaking",
+    "Ingredients": "Elixir of Life x3, Elixir of Energy x3, Elixir of Endurance x3, Clear Liquid Reagent x5",
+    "Experience": "800-1000 XP",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Master Lv.1"
+  },
+  {
+    "Recipe Name": "Beast's Draught",
+    "Process Type": "Shaking",
+    "Ingredients": "Elixir of Fury x3, Elixir of Wind x3, Elixir of Spells x3, Clear Liquid Reagent x5",
+    "Experience": "800-1000 XP",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Master Lv.1"
+  },
+  {
+    "Recipe Name": "Giant's Draught",
+    "Process Type": "Shaking",
+    "Ingredients": "Elixir of Will x3, Elixir of Resistance x3, Elixir of Life x3, Clear Liquid Reagent x5",
+    "Experience": "800-1000 XP",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Master Lv.1"
+  },
+  {
+    "Recipe Name": "Savage Draught",
+    "Process Type": "Shaking",
+    "Ingredients": "Elixir of Human Hunt x3, Elixir of Demihuman Hunt x3, Elixir of Destruction x3, Clear Liquid Reagent x5",
+    "Experience": "800-1000 XP",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Master Lv.1"
+  },
+  {
+    "Recipe Name": "Frenzy Draught",
+    "Process Type": "Shaking",
+    "Ingredients": "Elixir of Frenzy x3, Elixir of Assassination x3, Elixir of Detection x3, Clear Liquid Reagent x5",
+    "Experience": "800-1000 XP",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Master Lv.1"
+  },
+  {
+    "Recipe Name": "Celerity Draught",
+    "Process Type": "Shaking",
+    "Ingredients": "Elixir of Swiftness x3, Elixir of Spells x3, Elixir of Wind x3, Clear Liquid Reagent x5",
+    "Experience": "800-1000 XP",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Master Lv.1"
+  },
+  {
+    "Recipe Name": "Unbridled Celerity Draught",
+    "Process Type": "Shaking",
+    "Ingredients": "Celerity Draught x3, Elixir of Swiftness x10, Elixir of Spells x10, Clear Liquid Reagent x20",
+    "Experience": "1000-1200 XP",
+    "Market Price": "3,000,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Guru Lv.1"
+  },
+  {
+    "Recipe Name": "Armor Draught",
+    "Process Type": "Shaking",
+    "Ingredients": "Elixir of Resistance x3, Elixir of Will x3, Elixir of Life x3, Clear Liquid Reagent x5",
+    "Experience": "800-1000 XP",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Master Lv.1"
+  },
+  {
+    "Recipe Name": "Elixir of Indignation",
+    "Process Type": "Shaking",
+    "Ingredients": "Clear Liquid Reagent x1, Powder of Flame x5, Trace of Savagery x3, Blood Group 4 x2",
+    "Experience": "400-600 XP",
+    "Market Price": "50,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Marvelous Draught of Persistence",
+    "Process Type": "Shaking",
+    "Ingredients": "Verdure Draught x3, Elixir of Life x10, Elixir of Energy x10, Clear Liquid Reagent x20",
+    "Experience": "1000-1200 XP",
+    "Market Price": "3,000,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Guru Lv.1"
+  },
+  {
+    "Recipe Name": "Marvelous Draught of Strength",
+    "Process Type": "Shaking",
+    "Ingredients": "Beast's Draught x3, Elixir of Fury x10, Elixir of Wind x10, Clear Liquid Reagent x20",
+    "Experience": "1000-1200 XP",
+    "Market Price": "3,000,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Guru Lv.1"
+  },
+  {
+    "Recipe Name": "Sturdy Whale Tendon Potion",
+    "Process Type": "Shaking",
+    "Ingredients": "Whale Tendon Potion x3, Blue Whale Tendon x5, Clear Liquid Reagent x10",
+    "Experience": "500-700 XP",
+    "Market Price": "5,000,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Artisan Lv.1"
+  },
+  {
+    "Recipe Name": "Sturdy Whale Tendon Elixir",
+    "Process Type": "Shaking",
+    "Ingredients": "Whale Tendon Elixir x3, Blue Whale Tendon x5, Clear Liquid Reagent x10",
+    "Experience": "500-700 XP",
+    "Market Price": "5,000,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Artisan Lv.1"
+  },
+  {
+    "Recipe Name": "Fury Draught",
+    "Process Type": "Shaking",
+    "Ingredients": "Elixir of Fury x3, Elixir of Wind x3, Elixir of Spells x3, Clear Liquid Reagent x5",
+    "Experience": "800-1000 XP",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Master Lv.1"
+  },
+  {
+    "Recipe Name": "Adaptation Draught",
+    "Process Type": "Shaking",
+    "Ingredients": "Elixir of Resistance x3, Elixir of Will x3, Elixir of Life x3, Clear Liquid Reagent x5",
+    "Experience": "800-1000 XP",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Master Lv.1"
+  },
+  {
+    "Recipe Name": "Potential Draught",
+    "Process Type": "Shaking",
+    "Ingredients": "Elixir of Skill x3, Elixir of Time x3, Elixir of Mastery x3, Clear Liquid Reagent x5",
+    "Experience": "800-1000 XP",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Master Lv.1"
+  },
+  {
+    "Recipe Name": "Corruption Draught",
+    "Process Type": "Shaking",
+    "Ingredients": "Elixir of Frenzy x3, Elixir of Assassination x3, Elixir of Detection x3, Clear Liquid Reagent x5",
+    "Experience": "800-1000 XP",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Master Lv.1"
+  },
+  {
+    "Recipe Name": "Berserk Draught",
+    "Process Type": "Shaking",
+    "Ingredients": "Elixir of Human Hunt x3, Elixir of Demihuman Hunt x3, Elixir of Destruction x3, Clear Liquid Reagent x5",
+    "Experience": "800-1000 XP",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Master Lv.1"
+  },
+  {
+    "Recipe Name": "Harmony Draught",
+    "Process Type": "Shaking",
+    "Ingredients": "Elixir of Life x3, Elixir of Energy x3, Elixir of Endurance x3, Clear Liquid Reagent x5",
+    "Experience": "800-1000 XP",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Master Lv.1"
+  },
+  {
+    "Recipe Name": "Immortal: Harmony Draught",
+    "Process Type": "Shaking",
+    "Ingredients": "Harmony Draught x3, Elixir of Life x10, Elixir of Energy x10, Clear Liquid Reagent x20",
+    "Experience": "1000-1200 XP",
+    "Market Price": "3,000,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Guru Lv.1"
+  },
+  {
+    "Recipe Name": "[Party] Harmony Draught - Human",
+    "Process Type": "Shaking",
+    "Ingredients": "Elixir of Human Hunt x3, Elixir of Demihuman Hunt x3, Elixir of Destruction x3, Clear Liquid Reagent x5",
+    "Experience": "800-1000 XP",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Master Lv.1"
+  },
+  {
+    "Recipe Name": "[Party] Harmony Draught - Demihuman",
+    "Process Type": "Shaking",
+    "Ingredients": "Elixir of Human Hunt x3, Elixir of Demihuman Hunt x3, Elixir of Destruction x3, Clear Liquid Reagent x5",
+    "Experience": "800-1000 XP",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Master Lv.1"
+  },
+  {
+    "Recipe Name": "[Party] Harmony Draught - Kamasylvia",
+    "Process Type": "Shaking",
+    "Ingredients": "Elixir of Human Hunt x3, Elixir of Demihuman Hunt x3, Elixir of Destruction x3, Clear Liquid Reagent x5",
+    "Experience": "800-1000 XP",
+    "Market Price": "1,500,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Master Lv.1"
+  },
+  {
+    "Recipe Name": "Melted Iron Shard",
+    "Process Type": "Heating",
+    "Ingredients": "Iron Ore x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Iron Ingot",
+    "Process Type": "Heating",
+    "Ingredients": "Melted Iron Shard x5",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Pure Iron Crystal",
+    "Process Type": "Heating",
+    "Ingredients": "Iron Ingot x5, Metal Solvent x3",
+    "Experience": "400-600 XP",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Melted Lead Shard",
+    "Process Type": "Heating",
+    "Ingredients": "Lead Ore x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Lead Ingot",
+    "Process Type": "Heating",
+    "Ingredients": "Melted Lead Shard x5",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Pure Lead Crystal",
+    "Process Type": "Heating",
+    "Ingredients": "Lead Ingot x5, Metal Solvent x3",
+    "Experience": "400-600 XP",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Melted Copper Shard",
+    "Process Type": "Heating",
+    "Ingredients": "Copper Ore x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Copper Ingot",
+    "Process Type": "Heating",
+    "Ingredients": "Melted Copper Shard x5",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Pure Copper Crystal",
+    "Process Type": "Heating",
+    "Ingredients": "Copper Ingot x5, Metal Solvent x3",
+    "Experience": "400-600 XP",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Melted Tin Shard",
+    "Process Type": "Heating",
+    "Ingredients": "Tin Ore x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Tin Ingot",
+    "Process Type": "Heating",
+    "Ingredients": "Melted Tin Shard x5",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Pure Tin Crystal",
+    "Process Type": "Heating",
+    "Ingredients": "Tin Ingot x5, Metal Solvent x3",
+    "Experience": "400-600 XP",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Melted Zinc Shard",
+    "Process Type": "Heating",
+    "Ingredients": "Zinc Ore x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Zinc Ingot",
+    "Process Type": "Heating",
+    "Ingredients": "Melted Zinc Shard x5",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Pure Zinc Crystal",
+    "Process Type": "Heating",
+    "Ingredients": "Zinc Ingot x5, Metal Solvent x3",
+    "Experience": "400-600 XP",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Brass Ingot",
+    "Process Type": "Heating",
+    "Ingredients": "Melted Copper Shard x5, Melted Zinc Shard x5",
+    "Experience": "300-400 XP",
+    "Market Price": "8,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Bronze Ingot",
+    "Process Type": "Heating",
+    "Ingredients": "Melted Copper Shard x5, Melted Tin Shard x5",
+    "Experience": "300-400 XP",
+    "Market Price": "8,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Polished Stone",
+    "Process Type": "Grinding",
+    "Ingredients": "Rough Stone x10",
+    "Experience": "100-200 XP",
+    "Market Price": "1,500 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Processed Coal",
+    "Process Type": "Grinding",
+    "Ingredients": "Coal x5",
+    "Experience": "300-400 XP",
+    "Market Price": "2,500 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Steel",
+    "Process Type": "Heating",
+    "Ingredients": "Melted Iron Shard x5, Coal x5",
+    "Experience": "300-400 XP",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Melted Vanadium Shard",
+    "Process Type": "Heating",
+    "Ingredients": "Vanadium Ore x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Vanadium Ingot",
+    "Process Type": "Heating",
+    "Ingredients": "Melted Vanadium Shard x5",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Pure Vanadium Crystal",
+    "Process Type": "Heating",
+    "Ingredients": "Vanadium Ingot x5, Metal Solvent x3",
+    "Experience": "400-600 XP",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Melted Titanium Shard",
+    "Process Type": "Heating",
+    "Ingredients": "Titanium Ore x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Titanium Ingot",
+    "Process Type": "Heating",
+    "Ingredients": "Melted Titanium Shard x5",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Pure Titanium Crystal",
+    "Process Type": "Heating",
+    "Ingredients": "Titanium Ingot x5, Metal Solvent x3",
+    "Experience": "400-600 XP",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Melted Noc Shard",
+    "Process Type": "Heating",
+    "Ingredients": "Noc Ore x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Noc Ingot",
+    "Process Type": "Heating",
+    "Ingredients": "Melted Noc Shard x5",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Pure Noc Crystal",
+    "Process Type": "Heating",
+    "Ingredients": "Noc Ingot x5, Metal Solvent x3",
+    "Experience": "400-600 XP",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Melted Nickel Shard",
+    "Process Type": "Heating",
+    "Ingredients": "Nickel Ore x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Nickel Ingot",
+    "Process Type": "Heating",
+    "Ingredients": "Melted Nickel Shard x5",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Pure Nickel Crystal",
+    "Process Type": "Heating",
+    "Ingredients": "Nickel Ingot x5, Metal Solvent x3",
+    "Experience": "400-600 XP",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Melted Silver Shard",
+    "Process Type": "Heating",
+    "Ingredients": "Silver Ore x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Silver Ingot",
+    "Process Type": "Heating",
+    "Ingredients": "Melted Silver Shard x5",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Pure Silver Crystal",
+    "Process Type": "Heating",
+    "Ingredients": "Silver Ingot x5, Metal Solvent x3",
+    "Experience": "400-600 XP",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Melted Gold Shard",
+    "Process Type": "Heating",
+    "Ingredients": "Gold Ore x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Gold Ingot",
+    "Process Type": "Heating",
+    "Ingredients": "Melted Gold Shard x5",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Pure Gold Crystal",
+    "Process Type": "Heating",
+    "Ingredients": "Gold Ingot x5, Metal Solvent x3",
+    "Experience": "400-600 XP",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Melted Platinum Shard",
+    "Process Type": "Heating",
+    "Ingredients": "Platinum Ore x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Platinum Ingot",
+    "Process Type": "Heating",
+    "Ingredients": "Melted Platinum Shard x5",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Pure Platinum Crystal",
+    "Process Type": "Heating",
+    "Ingredients": "Platinum Ingot x5, Metal Solvent x3",
+    "Experience": "400-600 XP",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Polished Opal",
+    "Process Type": "Grinding",
+    "Ingredients": "Rough Opal x5, Gem Polisher x3",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Melted Mythril Shard",
+    "Process Type": "Heating",
+    "Ingredients": "Mythril Ore x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Mythril Ingot",
+    "Process Type": "Heating",
+    "Ingredients": "Melted Mythril Shard x5",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Pure Mythril Crystal",
+    "Process Type": "Heating",
+    "Ingredients": "Mythril Ingot x5, Metal Solvent x3",
+    "Experience": "400-600 XP",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Brilliant Opal",
+    "Process Type": "Grinding",
+    "Ingredients": "Polished Opal x5, Gem Polisher x3",
+    "Experience": "400-600 XP",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Moonlight Opal",
+    "Process Type": "Grinding",
+    "Ingredients": "Polished Opal x5, Gem Polisher x3",
+    "Experience": "400-600 XP",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Jade Coral Ingot",
+    "Process Type": "Heating",
+    "Ingredients": "Coral Piece x5, Melted Platinum Shard x5",
+    "Experience": "300-400 XP",
+    "Market Price": "8,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Obsidian Ore",
+    "Process Type": "Grinding",
+    "Ingredients": "Rough Obsidian x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Resplendent Obsidian",
+    "Process Type": "Grinding",
+    "Ingredients": "Obsidian Ore x5, Gem Polisher x3",
+    "Experience": "400-600 XP",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Ocean Sapphire",
+    "Process Type": "Grinding",
+    "Ingredients": "Polished Opal x5, Gem Polisher x3",
+    "Experience": "400-600 XP",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Coral Crystal",
+    "Process Type": "Grinding",
+    "Ingredients": "Coral Piece x5",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Resplendent Coral Crystal",
+    "Process Type": "Grinding",
+    "Ingredients": "Coral Crystal x5, Gem Polisher x3",
+    "Experience": "400-600 XP",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Red Coral",
+    "Process Type": "Grinding",
+    "Ingredients": "Coral Piece x5",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Resplendent Red Coral",
+    "Process Type": "Grinding",
+    "Ingredients": "Red Coral x5, Gem Polisher x3",
+    "Experience": "400-600 XP",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Blue Coral",
+    "Process Type": "Grinding",
+    "Ingredients": "Coral Piece x5",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Resplendent Blue Coral",
+    "Process Type": "Grinding",
+    "Ingredients": "Blue Coral x5, Gem Polisher x3",
+    "Experience": "400-600 XP",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Green Coral",
+    "Process Type": "Grinding",
+    "Ingredients": "Coral Piece x5",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Resplendent Green Coral",
+    "Process Type": "Grinding",
+    "Ingredients": "Green Coral x5, Gem Polisher x3",
+    "Experience": "400-600 XP",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "White Coral",
+    "Process Type": "Grinding",
+    "Ingredients": "Coral Piece x5",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Resplendent White Coral",
+    "Process Type": "Grinding",
+    "Ingredients": "White Coral x5, Gem Polisher x3",
+    "Experience": "400-600 XP",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Gold Coral",
+    "Process Type": "Grinding",
+    "Ingredients": "Coral Piece x5",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Resplendent Gold Coral",
+    "Process Type": "Grinding",
+    "Ingredients": "Gold Coral x5, Gem Polisher x3",
+    "Experience": "400-600 XP",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Pine Plank",
+    "Process Type": "Chopping",
+    "Ingredients": "Pine Timber x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Pine Plywood",
+    "Process Type": "Chopping",
+    "Ingredients": "Pine Plank x10, Plywood Hardener x3",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Fir Plank",
+    "Process Type": "Chopping",
+    "Ingredients": "Fir Timber x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Fir Plywood",
+    "Process Type": "Chopping",
+    "Ingredients": "Fir Plank x10, Plywood Hardener x3",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Cedar Plank",
+    "Process Type": "Chopping",
+    "Ingredients": "Cedar Timber x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Cedar Plywood",
+    "Process Type": "Chopping",
+    "Ingredients": "Cedar Plank x10, Plywood Hardener x3",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Birch Plank",
+    "Process Type": "Chopping",
+    "Ingredients": "Birch Timber x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Birch Plywood",
+    "Process Type": "Chopping",
+    "Ingredients": "Birch Plank x10, Plywood Hardener x3",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Maple Plank",
+    "Process Type": "Chopping",
+    "Ingredients": "Maple Timber x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Maple Plywood",
+    "Process Type": "Chopping",
+    "Ingredients": "Maple Plank x10, Plywood Hardener x3",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Ash Plank",
+    "Process Type": "Chopping",
+    "Ingredients": "Ash Timber x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Ash Plywood",
+    "Process Type": "Chopping",
+    "Ingredients": "Ash Plank x10, Plywood Hardener x3",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "White Oak Plank",
+    "Process Type": "Chopping",
+    "Ingredients": "White Oak Timber x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "White Oak Plywood",
+    "Process Type": "Chopping",
+    "Ingredients": "White Oak Plank x10, Plywood Hardener x3",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Elder Tree Plank",
+    "Process Type": "Chopping",
+    "Ingredients": "Elder Tree Timber x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Elder Tree Plywood",
+    "Process Type": "Chopping",
+    "Ingredients": "Elder Tree Plank x10, Plywood Hardener x3",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Palm Plank",
+    "Process Type": "Chopping",
+    "Ingredients": "Palm Timber x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Palm Plywood",
+    "Process Type": "Chopping",
+    "Ingredients": "Palm Plank x10, Plywood Hardener x3",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Acacia Plank",
+    "Process Type": "Chopping",
+    "Ingredients": "Acacia Timber x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Acacia Plywood",
+    "Process Type": "Chopping",
+    "Ingredients": "Acacia Plank x10, Plywood Hardener x3",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Moss Tree Plank",
+    "Process Type": "Chopping",
+    "Ingredients": "Moss Tree Timber x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Moss Tree Plywood",
+    "Process Type": "Chopping",
+    "Ingredients": "Moss Tree Plank x10, Plywood Hardener x3",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Loopy Tree Plank",
+    "Process Type": "Chopping",
+    "Ingredients": "Loopy Tree Timber x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Loopy Tree Plywood",
+    "Process Type": "Chopping",
+    "Ingredients": "Loopy Tree Plank x10, Plywood Hardener x3",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Ancient Tree Plank",
+    "Process Type": "Chopping",
+    "Ingredients": "Ancient Tree Timber x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Ancient Tree Plywood",
+    "Process Type": "Chopping",
+    "Ingredients": "Ancient Tree Plank x10, Plywood Hardener x3",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Standardized Timber Square",
+    "Process Type": "Chopping",
+    "Ingredients": "Any Plywood x10",
+    "Experience": "400-600 XP",
+    "Market Price": "10,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Sturdy Pine Plywood",
+    "Process Type": "Chopping",
+    "Ingredients": "Pine Plywood x10, Plywood Hardener x3",
+    "Experience": "400-600 XP",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Sturdy Fir Plywood",
+    "Process Type": "Chopping",
+    "Ingredients": "Fir Plywood x10, Plywood Hardener x3",
+    "Experience": "400-600 XP",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Sturdy Cedar Plywood",
+    "Process Type": "Chopping",
+    "Ingredients": "Cedar Plywood x10, Plywood Hardener x3",
+    "Experience": "400-600 XP",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Sturdy Birch Plywood",
+    "Process Type": "Chopping",
+    "Ingredients": "Birch Plywood x10, Plywood Hardener x3",
+    "Experience": "400-600 XP",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Sturdy Maple Plywood",
+    "Process Type": "Chopping",
+    "Ingredients": "Maple Plywood x10, Plywood Hardener x3",
+    "Experience": "400-600 XP",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Sturdy Ash Plywood",
+    "Process Type": "Chopping",
+    "Ingredients": "Ash Plywood x10, Plywood Hardener x3",
+    "Experience": "400-600 XP",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Sturdy White Oak Plywood",
+    "Process Type": "Chopping",
+    "Ingredients": "White Oak Plywood x10, Plywood Hardener x3",
+    "Experience": "400-600 XP",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Sturdy Elder Tree Plywood",
+    "Process Type": "Chopping",
+    "Ingredients": "Elder Tree Plywood x10, Plywood Hardener x3",
+    "Experience": "400-600 XP",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Sturdy Palm Plywood",
+    "Process Type": "Chopping",
+    "Ingredients": "Palm Plywood x10, Plywood Hardener x3",
+    "Experience": "400-600 XP",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Sturdy Acacia Plywood",
+    "Process Type": "Chopping",
+    "Ingredients": "Acacia Plywood x10, Plywood Hardener x3",
+    "Experience": "400-600 XP",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Sturdy Moss Tree Plywood",
+    "Process Type": "Chopping",
+    "Ingredients": "Moss Tree Plywood x10, Plywood Hardener x3",
+    "Experience": "400-600 XP",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Sturdy Loopy Tree Plywood",
+    "Process Type": "Chopping",
+    "Ingredients": "Loopy Tree Plywood x10, Plywood Hardener x3",
+    "Experience": "400-600 XP",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Sturdy Ancient Tree Plywood",
+    "Process Type": "Chopping",
+    "Ingredients": "Ancient Tree Plywood x10, Plywood Hardener x3",
+    "Experience": "400-600 XP",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Soft Ferri Feather",
+    "Process Type": "Drying",
+    "Ingredients": "Ferri Feather x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Fine Soft Ferri Feather",
+    "Process Type": "Drying",
+    "Ingredients": "Soft Ferri Feather x10, Leather Glaze x3",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Light Feather",
+    "Process Type": "Drying",
+    "Ingredients": "Flamingo Feather x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Fine Light Feather",
+    "Process Type": "Drying",
+    "Ingredients": "Light Feather x10, Leather Glaze x3",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Tough Hide",
+    "Process Type": "Drying",
+    "Ingredients": "Bear Hide x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Fine Tough Hide",
+    "Process Type": "Drying",
+    "Ingredients": "Tough Hide x10, Leather Glaze x3",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Soft Hide",
+    "Process Type": "Drying",
+    "Ingredients": "Deer Hide x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Fine Soft Hide",
+    "Process Type": "Drying",
+    "Ingredients": "Soft Hide x10, Leather Glaze x3",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Thin Hide",
+    "Process Type": "Drying",
+    "Ingredients": "Fox Hide x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Fine Thin Hide",
+    "Process Type": "Drying",
+    "Ingredients": "Thin Hide x10, Leather Glaze x3",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Hard Hide",
+    "Process Type": "Drying",
+    "Ingredients": "Rhino Hide x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Fine Hard Hide",
+    "Process Type": "Drying",
+    "Ingredients": "Hard Hide x10, Leather Glaze x3",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Thick Fur",
+    "Process Type": "Drying",
+    "Ingredients": "Wolf Hide x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Fine Thick Fur",
+    "Process Type": "Drying",
+    "Ingredients": "Thick Fur x10, Leather Glaze x3",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Lightweight Feather",
+    "Process Type": "Drying",
+    "Ingredients": "Chicken Feather x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Fine Lightweight Feather",
+    "Process Type": "Drying",
+    "Ingredients": "Lightweight Feather x10, Leather Glaze x3",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Fancy Feather",
+    "Process Type": "Drying",
+    "Ingredients": "Kuku Bird Feather x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Fine Fancy Feather",
+    "Process Type": "Drying",
+    "Ingredients": "Fancy Feather x10, Leather Glaze x3",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Fancy Reptile Skin",
+    "Process Type": "Drying",
+    "Ingredients": "Lizard Hide x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Fine Fancy Reptile Skin",
+    "Process Type": "Drying",
+    "Ingredients": "Fancy Reptile Skin x10, Leather Glaze x3",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Light Hide",
+    "Process Type": "Drying",
+    "Ingredients": "Sheep Hide x5",
+    "Experience": "100-200 XP",
+    "Market Price": "2,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Beginner Lv.1"
+  },
+  {
+    "Recipe Name": "Fine Light Hide",
+    "Process Type": "Drying",
+    "Ingredients": "Light Hide x10, Leather Glaze x3",
+    "Experience": "300-400 XP",
+    "Market Price": "5,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Skilled Lv.1"
+  },
+  {
+    "Recipe Name": "Supreme Soft Hide",
+    "Process Type": "Drying",
+    "Ingredients": "Fine Soft Hide x10, Leather Glaze x3",
+    "Experience": "400-600 XP",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Supreme Tough Hide",
+    "Process Type": "Drying",
+    "Ingredients": "Fine Tough Hide x10, Leather Glaze x3",
+    "Experience": "400-600 XP",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  },
+  {
+    "Recipe Name": "Supreme Thin Hide",
+    "Process Type": "Drying",
+    "Ingredients": "Fine Thin Hide x10, Leather Glaze x3",
+    "Experience": "400-600 XP",
+    "Market Price": "15,000 Silver",
+    "Weight": "0.10 LT",
+    "Skill Level": "Professional Lv.1"
+  }
+]
